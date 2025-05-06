@@ -1,0 +1,63 @@
+name: Scrape Eurocar Stock
+
+on:
+  schedule:
+    # Executa a cada 3 horas. Você pode ajustar o cron schedule.
+    # Formato: minuto hora dia(mês)  mês dia(semana)
+    # Ex: "0 */3 * * *" significa no minuto 0, a cada 3 horas.
+    # Ex: "0 8,12,18 * * *" significa às 8h, 12h e 18h UTC.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: # Permite executar manualmente pela interface do GitHub Actions
+
+jobs:
+  scrape_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necessário para fazer commit do JSON de volta ao repositório
+      pages: write    # Necessário para publicar no GitHub Pages
+      id-token: write # Necessário para autenticação com GitHub Pages (OIDC)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10" # Usaremos uma versão estável do Python
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraper script
+        run: python scraper.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          # O script agora salva o JSON em ./data/estoque_eurocar.json
+          # Vamos adicionar tudo dentro da pasta data
+          git add data/estoque_eurocar.json || echo "No data/estoque_eurocar.json to add"
+          # Verifica se há mudanças para commitar
+          if ! git diff --staged --quiet; then
+            git commit -m "Atualiza dados do estoque"
+            git push
+          else
+            echo "Nenhuma mudança nos dados do estoque para commitar."
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload da pasta data. O arquivo estará em /data/estoque_eurocar.json
+          path: "./data"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
