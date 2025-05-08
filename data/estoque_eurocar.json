@@ -242,17 +242,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET PRISMA 1.4AT LT",
-        "price": "65900.00",
-        "year": "2018/2019",
-        "km": "92000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14at-Lt/Chevrolet-Prisma-14at-Lt-2019-Londrina-Parana-6800722.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "JEEP RENEGADE 1.8 AT",
         "price": "73900.00",
         "year": "2019/2019",
@@ -434,6 +423,17 @@
         "year": "2010/2010",
         "km": "179000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Flex/Honda-City-Lx-Flex-2010-Londrina-Parana-6891357.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FORD FOCUS 1.6 FLEX FC",
+        "price": "29900.00",
+        "year": "2009/2009",
+        "km": "181000",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Focus/16-Flex-Fc/Ford-Focus-16-Flex-Fc-2009-Londrina-Parana-6949633.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
