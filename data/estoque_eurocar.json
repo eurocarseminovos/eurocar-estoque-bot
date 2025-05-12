@@ -198,11 +198,22 @@
         "options": []
     },
     {
-        "name": "TOYOTA COROLLA GLI UPPER",
-        "price": "91900.00",
+        "name": "CHEVROLET ONIX 1.4MT LTZ",
+        "price": "63900.00",
         "year": "2019/2019",
-        "km": "118000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
+        "km": "114000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Ltz/Chevrolet-Onix-14mt-Ltz-2019-Londrina-Parana-6747877.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN TIGUAN ALLSPAC 250 TSI 1.4 FLEX",
+        "price": "122900.00",
+        "year": "2019/2019",
+        "km": "94000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Tiguan/Allspac-250-Tsi-14-Flex/Volkswagen-Tiguan-Allspac-250-Tsi-14-Flex-2019-Londrina-Parana-6775506.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -220,22 +231,11 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.4MT LTZ",
-        "price": "63900.00",
+        "name": "TOYOTA COROLLA GLI UPPER",
+        "price": "91900.00",
         "year": "2019/2019",
-        "km": "114000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Ltz/Chevrolet-Onix-14mt-Ltz-2019-Londrina-Parana-6747877.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN TIGUAN ALLSPAC 250 TSI 1.4 FLEX",
-        "price": "122900.00",
-        "year": "2019/2019",
-        "km": "94000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Tiguan/Allspac-250-Tsi-14-Flex/Volkswagen-Tiguan-Allspac-250-Tsi-14-Flex-2019-Londrina-Parana-6775506.html",
+        "km": "118000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
