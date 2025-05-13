@@ -264,17 +264,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN POLO CL AD",
-        "price": "70900.00",
-        "year": "2017/2018",
-        "km": "105000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2018-Londrina-Parana-6931181.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "JEEP COMPASS LIMETED F H",
         "price": "99900.00",
         "year": "2018/2018",
@@ -313,6 +302,17 @@
         "year": "2017/2018",
         "km": "139000",
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei-20flex/Toyota-Corolla-Xei-20flex-2018-Londrina-Parana-6743733.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN POLO CL AD",
+        "price": "70900.00",
+        "year": "2017/2018",
+        "km": "105000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2018-Londrina-Parana-6931181.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -421,7 +421,7 @@
         "name": "FORD FOCUS 1.6 FLEX FC",
         "price": "29900.00",
         "year": "2009/2009",
-        "km": "181000",
+        "km": "187000",
         "link_details": "https://eurocarveiculos.com/carros/Ford/Focus/16-Flex-Fc/Ford-Focus-16-Flex-Fc-2009-Londrina-Parana-6949633.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
