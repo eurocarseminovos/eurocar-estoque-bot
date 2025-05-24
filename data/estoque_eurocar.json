@@ -88,17 +88,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.0 PREMIER AUTOMÁTICO TURBO",
-        "price": "80900.00",
-        "year": "2020/2021",
-        "km": "51000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Premier-Automatico-Turbo/Chevrolet-Onix-10-Premier-Automatico-Turbo-2021-Londrina-Parana-6850596.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "FIAT STRADA FREEDOM CS 1.3 FLEX MANUAL",
         "price": "79900.00",
         "year": "2020/2021",
@@ -148,6 +137,17 @@
         "year": "2019/2020",
         "km": "113000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705828.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FORD ECOSPORT TITNAT 2.0",
+        "price": "79900.00",
+        "year": "2018/2019",
+        "km": "83000",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-6995265.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -335,6 +335,28 @@
         "year": "2015/2015",
         "km": "108000",
         "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Se-At-20/Ford-Ecosport-Se-At-20-2015-Londrina-Parana-6818892.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT SANDERO EXP1016V",
+        "price": "34900.00",
+        "year": "2013/2014",
+        "km": "120000",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Sandero/Exp1016v/Renault-Sandero-Exp1016v-2014-Londrina-Parana-6991962.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET S10 LT FD2",
+        "price": "91900.00",
+        "year": "2014/2014",
+        "km": "130000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Lt-Fd2/Chevrolet-S10-Lt-Fd2-2014-Londrina-Parana-6995302.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
