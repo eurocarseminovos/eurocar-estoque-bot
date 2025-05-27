@@ -209,6 +209,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
+        "price": "89900.00",
+        "year": "2017/2018",
+        "km": "126000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-6931212.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI IX35 2.0 MPFI GL 16V FLEX 4P AUTOMÁTICO",
         "price": "85900.00",
         "year": "2017/2018",
@@ -236,17 +247,6 @@
         "year": "2017/2018",
         "km": "105000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2018-Londrina-Parana-6931181.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
-        "price": "89900.00",
-        "year": "2017/2018",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-6931212.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
