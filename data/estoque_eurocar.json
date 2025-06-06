@@ -77,11 +77,11 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN GOL 1.6",
-        "price": "58900.00",
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "66900.00",
         "year": "2021/2022",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
+        "km": "58000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -99,11 +99,11 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "66900.00",
+        "name": "VOLKSWAGEN GOL 1.6",
+        "price": "58900.00",
         "year": "2021/2022",
-        "km": "58000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -176,17 +176,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 10MT JOY",
-        "price": "57900.00",
-        "year": "2019/2020",
-        "km": "97000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Joy/Chevrolet-Onix-10mt-Joy-2020-Londrina-Parana-6931833.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET S10 ADVANTAGE FD2",
         "price": "111900.00",
         "year": "2019/2020",
@@ -198,33 +187,11 @@
         "options": []
     },
     {
-        "name": "FORD ECOSPORT TITNAT 2.0",
-        "price": "79900.00",
-        "year": "2018/2019",
-        "km": "83000",
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-6995265.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN TIGUAN ALLSPAC 250 TSI 1.4 FLEX",
         "price": "122900.00",
         "year": "2019/2019",
         "km": "94000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Tiguan/Allspac-250-Tsi-14-Flex/Volkswagen-Tiguan-Allspac-250-Tsi-14-Flex-2019-Londrina-Parana-6775506.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET PRISMA 1.4AT LTZ",
-        "price": "67900.00",
-        "year": "2018/2019",
-        "km": "97000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14at-Ltz/Chevrolet-Prisma-14at-Ltz-2019-Londrina-Parana-7022735.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -258,6 +225,28 @@
         "year": "2019/2019",
         "km": "70000",
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/Sport-At/Jeep-Renegade-Sport-At-2019-Londrina-Parana-6883183.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET PRISMA 1.4AT LTZ",
+        "price": "67900.00",
+        "year": "2018/2019",
+        "km": "97000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14at-Ltz/Chevrolet-Prisma-14at-Ltz-2019-Londrina-Parana-7022735.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FORD ECOSPORT TITNAT 2.0",
+        "price": "79900.00",
+        "year": "2018/2019",
+        "km": "83000",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-6995265.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
