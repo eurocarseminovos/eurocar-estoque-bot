@@ -143,6 +143,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN FOX CONNECT MB",
+        "price": "62900.00",
+        "year": "2019/2020",
+        "km": "59000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN POLO HIGHLINE AD TSI 1.0 FLEX AUT",
         "price": "82900.00",
         "year": "2019/2020",
@@ -236,17 +247,6 @@
         "year": "2018/2019",
         "km": "97000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14at-Ltz/Chevrolet-Prisma-14at-Ltz-2019-Londrina-Parana-7022735.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "FORD ECOSPORT TITNAT 2.0",
-        "price": "79900.00",
-        "year": "2018/2019",
-        "km": "83000",
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-6995265.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -412,6 +412,17 @@
         "year": "2014/2014",
         "km": "139000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FORD ECOSPORT TITANIUM 2.0 16V FLEX 5P MEC",
+        "price": "50900.00",
+        "year": "2012/2013",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titanium-20-16v-Flex-5p-Mec/Ford-Ecosport-Titanium-20-16v-Flex-5p-Mec-2013-Londrina-Parana-7045794.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
