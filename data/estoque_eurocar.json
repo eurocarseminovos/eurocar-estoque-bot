@@ -385,17 +385,6 @@
         "options": []
     },
     {
-        "name": "RENAULT SANDERO EXP1016V",
-        "price": "34900.00",
-        "year": "2013/2014",
-        "km": "120000",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Sandero/Exp1016v/Renault-Sandero-Exp1016v-2014-Londrina-Parana-6991962.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "HONDA BIZ 125 ES",
         "price": "12900.00",
         "year": "2014/2014",
@@ -412,6 +401,17 @@
         "year": "2014/2014",
         "km": "139000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT SANDERO EXP1016V",
+        "price": "34900.00",
+        "year": "2013/2014",
+        "km": "120000",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Sandero/Exp1016v/Renault-Sandero-Exp1016v-2014-Londrina-Parana-6991962.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
