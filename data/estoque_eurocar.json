@@ -1,7 +1,7 @@
 [
     {
         "name": "CHEVROLET ONIX 10TAT PR2",
-        "price": "109900.00",
+        "price": "108900.00",
         "year": "2024/2025",
         "km": "7000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10tat-Pr2/Chevrolet-Onix-10tat-Pr2-2025-Londrina-Parana-6595576.html",
@@ -22,11 +22,11 @@
         "options": []
     },
     {
-        "name": "FIAT MOBI LIKE 1.0 FIRE FLEX 5P.",
-        "price": "54900.00",
+        "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
+        "price": "86900.00",
         "year": "2022/2023",
-        "km": "73000",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Mobi/Like-10-Fire-Flex-5p/Fiat-Mobi-Like-10-Fire-Flex-5p-2023-Londrina-Parana-6856302.html",
+        "km": "30000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2023-Londrina-Parana-6931156.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -44,44 +44,11 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
-        "price": "86900.00",
+        "name": "FIAT MOBI LIKE 1.0 FIRE FLEX 5P.",
+        "price": "54900.00",
         "year": "2022/2023",
-        "km": "30000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2023-Londrina-Parana-6931156.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET ONIX 1.0 LT",
-        "price": "70900.00",
-        "year": "2021/2022",
-        "km": "19000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Lt/Chevrolet-Onix-10-Lt-2022-Londrina-Parana-6850559.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN GOL 1.6",
-        "price": "58900.00",
-        "year": "2021/2022",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "66900.00",
-        "year": "2021/2022",
-        "km": "58000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
+        "km": "73000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Mobi/Like-10-Fire-Flex-5p/Fiat-Mobi-Like-10-Fire-Flex-5p-2023-Londrina-Parana-6856302.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -99,6 +66,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "66900.00",
+        "year": "2021/2022",
+        "km": "58000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "PEUGEOT PARTNER 1.6",
         "price": "71900.00",
         "year": "2021/2022",
@@ -110,33 +88,33 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN GOL 1.6",
+        "price": "58900.00",
+        "year": "2021/2022",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET ONIX 1.0 LT",
+        "price": "69900.00",
+        "year": "2021/2022",
+        "km": "19000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Lt/Chevrolet-Onix-10-Lt-2022-Londrina-Parana-6850559.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "FIAT ARGO DRIVE 1.0",
         "price": "60900.00",
         "year": "2020/2021",
         "km": "43000",
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Argo/Drive-10/Fiat-Argo-Drive-10-2021-Londrina-Parana-7013482.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN FOX CONNECT MB",
-        "price": "62900.00",
-        "year": "2019/2020",
-        "km": "59000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET S10 ADVANTAGE FD2",
-        "price": "110900.00",
-        "year": "2019/2020",
-        "km": "113000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -155,6 +133,17 @@
     },
     {
         "name": "CHEVROLET S10 ADVANTAGE FD2",
+        "price": "110900.00",
+        "year": "2019/2020",
+        "km": "113000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET S10 ADVANTAGE FD2",
         "price": "111900.00",
         "year": "2019/2020",
         "km": "113000",
@@ -165,33 +154,22 @@
         "options": []
     },
     {
-        "name": "TOYOTA ETIOS SD PLT15 AT",
-        "price": "69900.00",
+        "name": "VOLKSWAGEN FOX CONNECT MB",
+        "price": "62900.00",
+        "year": "2019/2020",
+        "km": "59000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET PRISMA 1.4AT LTZ",
+        "price": "67900.00",
         "year": "2018/2019",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "TOYOTA YARIS HB XLPLUSAT",
-        "price": "75900.00",
-        "year": "2019/2019",
-        "km": "109000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Yaris/Hb-Xlplusat/Toyota-Yaris-Hb-Xlplusat-2019-Londrina-Parana-7063300.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET ONIX 1.4MT LT",
-        "price": "60900.00",
-        "year": "2019/2019",
-        "km": "117000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Lt/Chevrolet-Onix-14mt-Lt-2019-Londrina-Parana-6747839.html",
+        "km": "97000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14at-Ltz/Chevrolet-Prisma-14at-Ltz-2019-Londrina-Parana-7022735.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -220,11 +198,11 @@
         "options": []
     },
     {
-        "name": "CHEVROLET PRISMA 1.4AT LTZ",
-        "price": "67900.00",
-        "year": "2018/2019",
-        "km": "97000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14at-Ltz/Chevrolet-Prisma-14at-Ltz-2019-Londrina-Parana-7022735.html",
+        "name": "TOYOTA YARIS HB XLPLUSAT",
+        "price": "75900.00",
+        "year": "2019/2019",
+        "km": "109000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Yaris/Hb-Xlplusat/Toyota-Yaris-Hb-Xlplusat-2019-Londrina-Parana-7063300.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -242,22 +220,33 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN NOVA SAVEIRO TL MBVS",
-        "price": "59900.00",
-        "year": "2017/2018",
-        "km": "132000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Tl-Mbvs/Volkswagen-Nova-Saveiro-Tl-Mbvs-2018-Londrina-Parana-7060171.html",
+        "name": "TOYOTA ETIOS SD PLT15 AT",
+        "price": "69900.00",
+        "year": "2018/2019",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "CHEVROLET TRACKER PREMIER",
-        "price": "89500.00",
+        "name": "CHEVROLET ONIX 1.4MT LT",
+        "price": "60900.00",
+        "year": "2019/2019",
+        "km": "117000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Lt/Chevrolet-Onix-14mt-Lt-2019-Londrina-Parana-6747839.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "JEEP COMPASS LIMETED F H",
+        "price": "99900.00",
         "year": "2018/2018",
-        "km": "106000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
+        "km": "115000",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Limeted-F-H/Jeep-Compass-Limeted-F-H-2018-Londrina-Parana-6911339.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -275,17 +264,6 @@
         "options": []
     },
     {
-        "name": "AUDI Q3 1.4TFSI",
-        "price": "103900.00",
-        "year": "2017/2018",
-        "km": "107000",
-        "link_details": "https://eurocarveiculos.com/carros/Audi/Q3-14tfsi//Audi-Q3-14tfsi-2018-Londrina-Parana-6931075.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "HYUNDAI IX35 2.0 MPFI GL 16V FLEX 4P AUTOMÁTICO",
         "price": "85900.00",
         "year": "2017/2018",
@@ -297,11 +275,33 @@
         "options": []
     },
     {
-        "name": "JEEP COMPASS LIMETED F H",
-        "price": "99900.00",
+        "name": "AUDI Q3 1.4TFSI",
+        "price": "103900.00",
+        "year": "2017/2018",
+        "km": "107000",
+        "link_details": "https://eurocarveiculos.com/carros/Audi/Q3-14tfsi//Audi-Q3-14tfsi-2018-Londrina-Parana-6931075.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET TRACKER PREMIER",
+        "price": "89500.00",
         "year": "2018/2018",
-        "km": "115000",
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Limeted-F-H/Jeep-Compass-Limeted-F-H-2018-Londrina-Parana-6911339.html",
+        "km": "106000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN NOVA SAVEIRO TL MBVS",
+        "price": "59900.00",
+        "year": "2017/2018",
+        "km": "132000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Tl-Mbvs/Volkswagen-Nova-Saveiro-Tl-Mbvs-2018-Londrina-Parana-7060171.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -330,17 +330,6 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20 1.6A PREM",
-        "price": "62900.00",
-        "year": "2015/2016",
-        "km": "103000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/16a-Prem/Hyundai-Hb20-16a-Prem-2016-Londrina-Parana-7063347.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "JEEP RENEGADE LONGITUDE 1.8 FLEX AUTOMATICO",
         "price": "69900.00",
         "year": "2016/2016",
@@ -363,6 +352,17 @@
         "options": []
     },
     {
+        "name": "HYUNDAI HB20 1.6A PREM",
+        "price": "62900.00",
+        "year": "2015/2016",
+        "km": "103000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/16a-Prem/Hyundai-Hb20-16a-Prem-2016-Londrina-Parana-7063347.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "FORD ECOSPORT SE AT 2.0",
         "price": "55900.00",
         "year": "2015/2015",
@@ -374,22 +374,22 @@
         "options": []
     },
     {
-        "name": "HONDA CIVIC LXR",
-        "price": "73900.00",
+        "name": "HONDA BIZ 125 ES",
+        "price": "12900.00",
         "year": "2014/2014",
-        "km": "139000",
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
+        "km": "40000",
+        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "HONDA BIZ 125 ES",
-        "price": "12900.00",
+        "name": "HONDA CIVIC LXR",
+        "price": "73900.00",
         "year": "2014/2014",
-        "km": "40000",
-        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
+        "km": "139000",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
