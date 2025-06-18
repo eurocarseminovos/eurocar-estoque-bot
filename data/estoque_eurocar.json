@@ -198,17 +198,6 @@
         "options": []
     },
     {
-        "name": "JEEP COMPASS LONGITUDE F",
-        "price": "96900.00",
-        "year": "2018/2019",
-        "km": "81000",
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-F/Jeep-Compass-Longitude-F-2019-Londrina-Parana-7067043.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "TOYOTA YARIS HB XLPLUSAT",
         "price": "75900.00",
         "year": "2019/2019",
@@ -275,17 +264,6 @@
         "options": []
     },
     {
-        "name": "JEEP COMPASS LIMETED F H",
-        "price": "99900.00",
-        "year": "2018/2018",
-        "km": "115000",
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Limeted-F-H/Jeep-Compass-Limeted-F-H-2018-Londrina-Parana-6911339.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "TOYOTA COROLLA XEI 20FLEX",
         "price": "97900.00",
         "year": "2017/2018",
@@ -313,6 +291,17 @@
         "year": "2017/2018",
         "km": "132000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Tl-Mbvs/Volkswagen-Nova-Saveiro-Tl-Mbvs-2018-Londrina-Parana-7060171.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "JEEP COMPASS LIMETED F H",
+        "price": "99900.00",
+        "year": "2018/2018",
+        "km": "115000",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Limeted-F-H/Jeep-Compass-Limeted-F-H-2018-Londrina-Parana-6911339.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -401,6 +390,17 @@
         "year": "2014/2014",
         "km": "139000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT DUSTER 20 D 4X2",
+        "price": "51900.00",
+        "year": "2013/2014",
+        "km": "130000",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2/Renault-Duster-20-D-4x2-2014-Londrina-Parana-7067833.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
