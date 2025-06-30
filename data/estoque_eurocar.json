@@ -220,17 +220,6 @@
         "options": []
     },
     {
-        "name": "TOYOTA ETIOS SD PLT15 AT",
-        "price": "69900.00",
-        "year": "2018/2019",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 1.4MT LT",
         "price": "60900.00",
         "year": "2019/2019",
@@ -247,6 +236,17 @@
         "year": "2019/2019",
         "km": "92394",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7077157.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "TOYOTA ETIOS SD PLT15 AT",
+        "price": "69900.00",
+        "year": "2018/2019",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
