@@ -88,22 +88,22 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
-        "price": "81900.00",
+        "name": "PEUGEOT PARTNER 1.6",
+        "price": "71900.00",
         "year": "2021/2022",
-        "km": "62000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2022-Londrina-Parana-7067082.html",
+        "km": "53491",
+        "link_details": "https://eurocarveiculos.com/carros/Peugeot/Partner/16/Peugeot-Partner-16-2022-Londrina-Parana-6710153.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "PEUGEOT PARTNER 1.6",
-        "price": "71900.00",
+        "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
+        "price": "81900.00",
         "year": "2021/2022",
-        "km": "53491",
-        "link_details": "https://eurocarveiculos.com/carros/Peugeot/Partner/16/Peugeot-Partner-16-2022-Londrina-Parana-6710153.html",
+        "km": "62000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2022-Londrina-Parana-7067082.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -253,17 +253,6 @@
         "options": []
     },
     {
-        "name": "AUDI Q3 1.4TFSI",
-        "price": "102900.00",
-        "year": "2017/2018",
-        "km": "107000",
-        "link_details": "https://eurocarveiculos.com/carros/Audi/Q3-14tfsi//Audi-Q3-14tfsi-2018-Londrina-Parana-6931075.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "TOYOTA COROLLA XEI 20FLEX",
         "price": "97900.00",
         "year": "2017/2018",
@@ -324,6 +313,17 @@
         "year": "2017/2018",
         "km": "132000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Tl-Mbvs/Volkswagen-Nova-Saveiro-Tl-Mbvs-2018-Londrina-Parana-7060171.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "AUDI Q3 1.4TFSI",
+        "price": "102900.00",
+        "year": "2017/2018",
+        "km": "107000",
+        "link_details": "https://eurocarveiculos.com/carros/Audi/Q3-14tfsi//Audi-Q3-14tfsi-2018-Londrina-Parana-6931075.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
