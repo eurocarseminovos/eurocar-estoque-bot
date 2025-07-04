@@ -44,6 +44,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET ONIX 1.0 PREMIER AUTOMÁTICO TURBO",
+        "price": "89900.00",
+        "year": "2022/2023",
+        "km": "18900",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Premier-Automatico-Turbo/Chevrolet-Onix-10-Premier-Automatico-Turbo-2023-Londrina-Parana-7117934.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
         "price": "83900.00",
         "year": "2022/2023",
@@ -313,6 +324,17 @@
         "year": "2017/2018",
         "km": "107000",
         "link_details": "https://eurocarveiculos.com/carros/Audi/Q3-14tfsi//Audi-Q3-14tfsi-2018-Londrina-Parana-6931075.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HYUNDAI CRETA 2.0 16V FLEX PRESTIGE AUTOMATICO",
+        "price": "91900.00",
+        "year": "2018/2018",
+        "km": "111000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20-16v-Flex-Prestige-Automatico/Hyundai-Creta-20-16v-Flex-Prestige-Automatico-2018-Londrina-Parana-7117376.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
