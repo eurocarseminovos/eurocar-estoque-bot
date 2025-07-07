@@ -66,11 +66,11 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN GOL 1.6",
-        "price": "58900.00",
+        "name": "PEUGEOT PARTNER 1.6",
+        "price": "69500.00",
         "year": "2021/2022",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
+        "km": "53491",
+        "link_details": "https://eurocarveiculos.com/carros/Peugeot/Partner/16/Peugeot-Partner-16-2022-Londrina-Parana-6710153.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -78,7 +78,7 @@
     },
     {
         "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "66900.00",
+        "price": "64900.00",
         "year": "2021/2022",
         "km": "58000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
@@ -92,18 +92,18 @@
         "price": "58900.00",
         "year": "2021/2022",
         "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "PEUGEOT PARTNER 1.6",
-        "price": "71900.00",
+        "name": "VOLKSWAGEN GOL 1.6",
+        "price": "58900.00",
         "year": "2021/2022",
-        "km": "53491",
-        "link_details": "https://eurocarveiculos.com/carros/Peugeot/Partner/16/Peugeot-Partner-16-2022-Londrina-Parana-6710153.html",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -187,6 +187,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET PRISMA 1.4MT LT",
+        "price": "63500.00",
+        "year": "2018/2019",
+        "km": "97000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14mt-Lt/Chevrolet-Prisma-14mt-Lt-2019-Londrina-Parana-7122779.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "JEEP RENEGADE 1.8 AT",
         "price": "73900.00",
         "year": "2019/2019",
@@ -253,6 +264,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET TRACKER PREMIER",
+        "price": "88900.00",
+        "year": "2018/2018",
+        "km": "106000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "TOYOTA COROLLA XEI 20FLEX",
         "price": "97900.00",
         "year": "2017/2018",
@@ -291,17 +313,6 @@
         "year": "2017/2018",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/16-16v-Flex-Sl-4p-Xtronic/Nissan-Kicks-16-16v-Flex-Sl-4p-Xtronic-2018-Londrina-Parana-7079867.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET TRACKER PREMIER",
-        "price": "88900.00",
-        "year": "2018/2018",
-        "km": "106000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -368,6 +379,17 @@
         "year": "2015/2016",
         "km": "103000",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/16a-Prem/Hyundai-Hb20-16a-Prem-2016-Londrina-Parana-7063347.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "TOYOTA COROLLA XEI20FLEX",
+        "price": "72900.00",
+        "year": "2013/2014",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2014-Londrina-Parana-7122750.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
