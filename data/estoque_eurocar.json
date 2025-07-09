@@ -55,17 +55,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
-        "price": "83900.00",
-        "year": "2022/2023",
-        "km": "30000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2023-Londrina-Parana-6931156.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "PEUGEOT PARTNER 1.6",
         "price": "69500.00",
         "year": "2021/2022",
@@ -203,6 +192,17 @@
         "year": "2019/2019",
         "km": "92000",
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-At/Jeep-Renegade-18-At-2019-Londrina-Parana-6602807.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "NISSAN VERSA 16SV CVT",
+        "price": "63500.00",
+        "year": "2018/2019",
+        "km": "96000",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Versa/16sv-Cvt/Nissan-Versa-16sv-Cvt-2019-Londrina-Parana-7130483.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
