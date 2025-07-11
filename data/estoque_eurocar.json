@@ -44,17 +44,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.0 PREMIER AUTOMÁTICO TURBO",
-        "price": "89900.00",
-        "year": "2022/2023",
-        "km": "18900",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Premier-Automatico-Turbo/Chevrolet-Onix-10-Premier-Automatico-Turbo-2023-Londrina-Parana-7117934.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "PEUGEOT PARTNER 1.6",
         "price": "69500.00",
         "year": "2021/2022",
@@ -209,17 +198,6 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20 1.0M UNIQUE",
-        "price": "55900.00",
-        "year": "2019/2019",
-        "km": "92394",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7077157.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 1.4MT LT",
         "price": "60900.00",
         "year": "2019/2019",
@@ -231,22 +209,33 @@
         "options": []
     },
     {
-        "name": "TOYOTA COROLLA GLI UPPER",
-        "price": "89900.00",
-        "year": "2019/2019",
-        "km": "118000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
+        "name": "TOYOTA ETIOS SD PLT15 AT",
+        "price": "68900.00",
+        "year": "2018/2019",
+        "km": "89000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "TOYOTA ETIOS SD PLT15 AT",
-        "price": "68900.00",
-        "year": "2018/2019",
-        "km": "89000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
+        "name": "HYUNDAI HB20 1.0M UNIQUE",
+        "price": "55900.00",
+        "year": "2019/2019",
+        "km": "92394",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7077157.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "TOYOTA COROLLA GLI UPPER",
+        "price": "89900.00",
+        "year": "2019/2019",
+        "km": "118000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
