@@ -231,17 +231,6 @@
         "options": []
     },
     {
-        "name": "TOYOTA COROLLA GLI UPPER",
-        "price": "89900.00",
-        "year": "2019/2019",
-        "km": "118000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "TOYOTA YARIS HB XLPLUSAT",
         "price": "75900.00",
         "year": "2019/2019",
@@ -253,11 +242,11 @@
         "options": []
     },
     {
-        "name": "CHEVROLET TRACKER PREMIER",
-        "price": "88900.00",
-        "year": "2018/2018",
-        "km": "106000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
+        "name": "TOYOTA COROLLA GLI UPPER",
+        "price": "89900.00",
+        "year": "2019/2019",
+        "km": "118000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -302,6 +291,17 @@
         "year": "2017/2018",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/16-16v-Flex-Sl-4p-Xtronic/Nissan-Kicks-16-16v-Flex-Sl-4p-Xtronic-2018-Londrina-Parana-7079867.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET TRACKER PREMIER",
+        "price": "88900.00",
+        "year": "2018/2018",
+        "km": "106000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
