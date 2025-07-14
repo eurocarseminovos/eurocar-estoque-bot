@@ -121,17 +121,6 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20 1.0TA FE. DIAM",
-        "price": "77900.00",
-        "year": "2019/2020",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10ta-Fe-Diam/Hyundai-Hb20-10ta-Fe-Diam-2020-Londrina-Parana-7077202.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "RENAULT DUSTER 16 D CVT",
         "price": "74900.00",
         "year": "2019/2020",
@@ -231,6 +220,17 @@
         "options": []
     },
     {
+        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
+        "price": "62900.00",
+        "year": "2018/2019",
+        "km": "103302",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "TOYOTA YARIS HB XLPLUSAT",
         "price": "75900.00",
         "year": "2019/2019",
@@ -308,6 +308,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET ONIX 1.4AT LTZ",
+        "price": "67500.00",
+        "year": "2018/2018",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14at-Ltz/Chevrolet-Onix-14at-Ltz-2018-Londrina-Parana-7138486.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "AUDI Q3 1.4TFSI",
         "price": "102900.00",
         "year": "2017/2018",
@@ -363,6 +374,17 @@
         "options": []
     },
     {
+        "name": "FORD ECOSPORT SE 1.6B",
+        "price": "58500.00",
+        "year": "2015/2016",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Se-16b/Ford-Ecosport-Se-16b-2016-Londrina-Parana-7143732.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "TOYOTA COROLLA XEI20FLEX",
         "price": "72900.00",
         "year": "2013/2014",
@@ -374,22 +396,22 @@
         "options": []
     },
     {
-        "name": "HONDA BIZ 125 ES",
-        "price": "12900.00",
+        "name": "HONDA CIVIC LXR",
+        "price": "72900.00",
         "year": "2014/2014",
-        "km": "40000",
-        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
+        "km": "139000",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "HONDA CIVIC LXR",
-        "price": "72900.00",
+        "name": "HONDA BIZ 125 ES",
+        "price": "12900.00",
         "year": "2014/2014",
-        "km": "139000",
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
+        "km": "40000",
+        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
