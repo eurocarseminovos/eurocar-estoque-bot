@@ -69,8 +69,8 @@
         "name": "VOLKSWAGEN GOL 1.6",
         "price": "58900.00",
         "year": "2021/2022",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
+        "km": "59000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -80,8 +80,8 @@
         "name": "VOLKSWAGEN GOL 1.6",
         "price": "58900.00",
         "year": "2021/2022",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
+        "km": "79000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -93,17 +93,6 @@
         "year": "2021/2022",
         "km": "62000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2022-Londrina-Parana-7067082.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET S10 ADVANTAGE FD2",
-        "price": "110900.00",
-        "year": "2019/2020",
-        "km": "113000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -143,6 +132,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET S10 ADVANTAGE FD2",
+        "price": "108900.00",
+        "year": "2019/2020",
+        "km": "113000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "JEEP RENEGADE LNGTD AT",
         "price": "79900.00",
         "year": "2019/2020",
@@ -159,17 +159,6 @@
         "year": "2019/2019",
         "km": "92000",
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-At/Jeep-Renegade-18-At-2019-Londrina-Parana-6602807.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "NISSAN VERSA 16SV CVT",
-        "price": "63500.00",
-        "year": "2018/2019",
-        "km": "96000",
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Versa/16sv-Cvt/Nissan-Versa-16sv-Cvt-2019-Londrina-Parana-7130483.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -242,6 +231,17 @@
         "options": []
     },
     {
+        "name": "NISSAN VERSA 16SV CVT",
+        "price": "63500.00",
+        "year": "2018/2019",
+        "km": "96000",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Versa/16sv-Cvt/Nissan-Versa-16sv-Cvt-2019-Londrina-Parana-7130483.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "TOYOTA COROLLA GLI UPPER",
         "price": "89900.00",
         "year": "2019/2019",
@@ -275,17 +275,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
-        "price": "89900.00",
-        "year": "2017/2018",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-7079908.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "NISSAN KICKS 1.6 16V FLEX SL 4P XTRONIC",
         "price": "82500.00",
         "year": "2017/2018",
@@ -313,6 +302,17 @@
         "year": "2018/2018",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14at-Ltz/Chevrolet-Onix-14at-Ltz-2018-Londrina-Parana-7138486.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
+        "price": "89900.00",
+        "year": "2017/2018",
+        "km": "112000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-7079908.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
