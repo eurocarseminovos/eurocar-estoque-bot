@@ -231,6 +231,28 @@
         "options": []
     },
     {
+        "name": "CHEVROLET ONIX 1.4AT LTZ",
+        "price": "67500.00",
+        "year": "2018/2018",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14at-Ltz/Chevrolet-Onix-14at-Ltz-2018-Londrina-Parana-7138486.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HYUNDAI CRETA 2.0 16V FLEX PRESTIGE AUTOMATICO",
+        "price": "91900.00",
+        "year": "2018/2018",
+        "km": "111000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20-16v-Flex-Prestige-Automatico/Hyundai-Creta-20-16v-Flex-Prestige-Automatico-2018-Londrina-Parana-7117376.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "JEEP COMPASS LIMETED F H",
         "price": "96900.00",
         "year": "2018/2018",
@@ -264,17 +286,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.4AT LTZ",
-        "price": "67500.00",
-        "year": "2018/2018",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14at-Ltz/Chevrolet-Onix-14at-Ltz-2018-Londrina-Parana-7138486.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
         "price": "89900.00",
         "year": "2017/2018",
@@ -291,17 +302,6 @@
         "year": "2017/2018",
         "km": "107000",
         "link_details": "https://eurocarveiculos.com/carros/Audi/Q3-14tfsi//Audi-Q3-14tfsi-2018-Londrina-Parana-6931075.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HYUNDAI CRETA 2.0 16V FLEX PRESTIGE AUTOMATICO",
-        "price": "91900.00",
-        "year": "2018/2018",
-        "km": "111000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20-16v-Flex-Prestige-Automatico/Hyundai-Creta-20-16v-Flex-Prestige-Automatico-2018-Londrina-Parana-7117376.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
