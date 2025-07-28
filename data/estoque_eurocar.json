@@ -88,17 +88,6 @@
         "options": []
     },
     {
-        "name": "KIA CERATO EX 2.0 16V FLEX AUT.",
-        "price": "86900.00",
-        "year": "2019/2020",
-        "km": "67000",
-        "link_details": "https://eurocarveiculos.com/carros/Kia/Cerato/Ex-20-16v-Flex-Aut/Kia-Cerato-Ex-20-16v-Flex-Aut-2020-Londrina-Parana-7171409.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "RENAULT DUSTER 16 D CVT",
         "price": "74900.00",
         "year": "2019/2020",
@@ -110,22 +99,33 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN FOX CONNECT MB",
-        "price": "62500.00",
+        "name": "CHEVROLET S10 ADVANTAGE FD2",
+        "price": "109900.00",
         "year": "2019/2020",
-        "km": "59000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
+        "km": "113000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "CHEVROLET S10 ADVANTAGE FD2",
-        "price": "109900.00",
+        "name": "KIA CERATO EX 2.0 16V FLEX AUT.",
+        "price": "86900.00",
         "year": "2019/2020",
-        "km": "113000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
+        "km": "67000",
+        "link_details": "https://eurocarveiculos.com/carros/Kia/Cerato/Ex-20-16v-Flex-Aut/Kia-Cerato-Ex-20-16v-Flex-Aut-2020-Londrina-Parana-7171409.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN FOX CONNECT MB",
+        "price": "62500.00",
+        "year": "2019/2020",
+        "km": "59000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -264,28 +264,6 @@
         "options": []
     },
     {
-        "name": "NISSAN KICKS 1.6 16V FLEX SL 4P XTRONIC",
-        "price": "82500.00",
-        "year": "2017/2018",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/16-16v-Flex-Sl-4p-Xtronic/Nissan-Kicks-16-16v-Flex-Sl-4p-Xtronic-2018-Londrina-Parana-7079867.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "FIAT TORO FREEDOM AT",
-        "price": "85500.00",
-        "year": "2017/2018",
-        "km": "95000",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Freedom-At/Fiat-Toro-Freedom-At-2018-Londrina-Parana-7180709.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 1.4AT LTZ",
         "price": "67500.00",
         "year": "2018/2018",
@@ -297,11 +275,33 @@
         "options": []
     },
     {
+        "name": "NISSAN KICKS 1.6 16V FLEX SL 4P XTRONIC",
+        "price": "82500.00",
+        "year": "2017/2018",
+        "km": "108000",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/16-16v-Flex-Sl-4p-Xtronic/Nissan-Kicks-16-16v-Flex-Sl-4p-Xtronic-2018-Londrina-Parana-7079867.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "CHEVROLET TRACKER PREMIER",
         "price": "88900.00",
         "year": "2018/2018",
         "km": "106000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FIAT TORO FREEDOM AT",
+        "price": "85500.00",
+        "year": "2017/2018",
+        "km": "95000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Freedom-At/Fiat-Toro-Freedom-At-2018-Londrina-Parana-7180709.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
