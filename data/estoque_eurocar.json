@@ -253,17 +253,6 @@
         "options": []
     },
     {
-        "name": "FIAT STRADA HD WK CC E",
-        "price": "56500.00",
-        "year": "2017/2018",
-        "km": "123000",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Hd-Wk-Cc-E/Fiat-Strada-Hd-Wk-Cc-E-2018-Londrina-Parana-7157394.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 1.4AT LTZ",
         "price": "67500.00",
         "year": "2018/2018",
@@ -313,6 +302,17 @@
         "year": "2017/2018",
         "km": "112000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-7079908.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FIAT STRADA HD WK CC E",
+        "price": "56500.00",
+        "year": "2017/2018",
+        "km": "123000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Hd-Wk-Cc-E/Fiat-Strada-Hd-Wk-Cc-E-2018-Londrina-Parana-7157394.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -396,22 +396,22 @@
         "options": []
     },
     {
-        "name": "HONDA CIVIC EXR",
-        "price": "77900.00",
-        "year": "2013/2014",
-        "km": "135000",
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Exr/Honda-Civic-Exr-2014-Londrina-Parana-7166703.html",
+        "name": "HONDA BIZ 125 ES",
+        "price": "12900.00",
+        "year": "2014/2014",
+        "km": "40000",
+        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "HONDA BIZ 125 ES",
-        "price": "12900.00",
-        "year": "2014/2014",
-        "km": "40000",
-        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
+        "name": "HONDA CIVIC EXR",
+        "price": "77900.00",
+        "year": "2013/2014",
+        "km": "135000",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Exr/Honda-Civic-Exr-2014-Londrina-Parana-7166703.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
