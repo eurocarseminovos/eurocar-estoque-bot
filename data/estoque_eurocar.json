@@ -242,6 +242,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
+        "price": "89900.00",
+        "year": "2017/2018",
+        "km": "112000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-7079908.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI CRETA 2.0 16V FLEX PRESTIGE AUTOMATICO",
         "price": "91900.00",
         "year": "2018/2018",
@@ -291,17 +302,6 @@
         "year": "2017/2018",
         "km": "95000",
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Freedom-At/Fiat-Toro-Freedom-At-2018-Londrina-Parana-7180709.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
-        "price": "89900.00",
-        "year": "2017/2018",
-        "km": "112000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-7079908.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
