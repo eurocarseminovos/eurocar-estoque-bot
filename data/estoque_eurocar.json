@@ -418,11 +418,33 @@
         "options": []
     },
     {
+        "name": "TOYOTA COROLLA GLI FLEX",
+        "price": "63900.00",
+        "year": "2012/2013",
+        "km": "123000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Flex/Toyota-Corolla-Gli-Flex-2013-Londrina-Parana-7206846.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HONDA CR-V EXL FLEX",
         "price": "82900.00",
         "year": "2013/2013",
         "km": "157000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Cr-v/Exl-Flex/Honda-Cr-v-Exl-Flex-2013-Londrina-Parana-7076099.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HONDA CIVIC LXL 1.8 16V FLEX MEC.",
+        "price": "53900.00",
+        "year": "2011/2011",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxl-18-16v-Flex-Mec/Honda-Civic-Lxl-18-16v-Flex-Mec-2011-Londrina-Parana-7208441.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
