@@ -385,17 +385,6 @@
         "options": []
     },
     {
-        "name": "HONDA BIZ 125 ES",
-        "price": "12900.00",
-        "year": "2014/2014",
-        "km": "40000",
-        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "HONDA CIVIC EXR",
         "price": "77900.00",
         "year": "2013/2014",
@@ -412,6 +401,17 @@
         "year": "2013/2014",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2014-Londrina-Parana-7122750.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HONDA BIZ 125 ES",
+        "price": "11500.00",
+        "year": "2014/2014",
+        "km": "40000",
+        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
