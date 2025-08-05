@@ -55,17 +55,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "64900.00",
-        "year": "2021/2022",
-        "km": "58000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN GOL 1.6",
         "price": "58900.00",
         "year": "2021/2022",
@@ -82,6 +71,17 @@
         "year": "2021/2022",
         "km": "79000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009420.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "63900.00",
+        "year": "2021/2022",
+        "km": "58000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -110,17 +110,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET S10 ADVANTAGE FD2",
-        "price": "109900.00",
-        "year": "2019/2020",
-        "km": "113000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "KIA CERATO EX 2.0 16V FLEX AUT.",
         "price": "86900.00",
         "year": "2019/2020",
@@ -137,6 +126,17 @@
         "year": "2019/2020",
         "km": "59000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET S10 ADVANTAGE FD2",
+        "price": "112900.00",
+        "year": "2019/2020",
+        "km": "113000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -209,22 +209,22 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
-        "price": "62900.00",
-        "year": "2018/2019",
-        "km": "103302",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
+        "name": "TOYOTA YARIS HB XLPLUSAT",
+        "price": "75900.00",
+        "year": "2019/2019",
+        "km": "109000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Yaris/Hb-Xlplusat/Toyota-Yaris-Hb-Xlplusat-2019-Londrina-Parana-7063300.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "TOYOTA YARIS HB XLPLUSAT",
-        "price": "75900.00",
-        "year": "2019/2019",
-        "km": "109000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Yaris/Hb-Xlplusat/Toyota-Yaris-Hb-Xlplusat-2019-Londrina-Parana-7063300.html",
+        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
+        "price": "62900.00",
+        "year": "2018/2019",
+        "km": "103302",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -374,17 +374,6 @@
         "options": []
     },
     {
-        "name": "TOYOTA COROLLA XEI20FLEX",
-        "price": "72900.00",
-        "year": "2013/2014",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2014-Londrina-Parana-7122750.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "HONDA CIVIC LXR",
         "price": "72900.00",
         "year": "2014/2014",
@@ -412,6 +401,17 @@
         "year": "2013/2014",
         "km": "135000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Exr/Honda-Civic-Exr-2014-Londrina-Parana-7166703.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "TOYOTA COROLLA XEI20FLEX",
+        "price": "72900.00",
+        "year": "2013/2014",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2014-Londrina-Parana-7122750.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
