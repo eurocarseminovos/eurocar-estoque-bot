@@ -99,17 +99,6 @@
         "options": []
     },
     {
-        "name": "RENAULT DUSTER 16 D CVT",
-        "price": "74900.00",
-        "year": "2019/2020",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-Cvt/Renault-Duster-16-D-Cvt-2020-Londrina-Parana-7079870.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "KIA CERATO EX 2.0 16V FLEX AUT.",
         "price": "86900.00",
         "year": "2019/2020",
@@ -148,6 +137,17 @@
         "year": "2019/2020",
         "km": "78000",
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/Lngtd-At/Jeep-Renegade-Lngtd-At-2020-Londrina-Parana-6480450.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT DUSTER 16 D CVT",
+        "price": "74900.00",
+        "year": "2019/2020",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-Cvt/Renault-Duster-16-D-Cvt-2020-Londrina-Parana-7079870.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -220,17 +220,6 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
-        "price": "62900.00",
-        "year": "2018/2019",
-        "km": "103302",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "HYUNDAI HB20 1.0M UNIQUE",
         "price": "55900.00",
         "year": "2018/2019",
@@ -247,6 +236,17 @@
         "year": "2019/2019",
         "km": "118000",
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Upper/Toyota-Corolla-Gli-Upper-2019-Londrina-Parana-6945900.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
+        "price": "62900.00",
+        "year": "2018/2019",
+        "km": "103302",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
