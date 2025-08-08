@@ -110,17 +110,6 @@
         "options": []
     },
     {
-        "name": "KIA CERATO EX 2.0 16V FLEX AUT.",
-        "price": "86900.00",
-        "year": "2019/2020",
-        "km": "67000",
-        "link_details": "https://eurocarveiculos.com/carros/Kia/Cerato/Ex-20-16v-Flex-Aut/Kia-Cerato-Ex-20-16v-Flex-Aut-2020-Londrina-Parana-7171409.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN FOX CONNECT MB",
         "price": "62500.00",
         "year": "2019/2020",
@@ -165,22 +154,22 @@
         "options": []
     },
     {
-        "name": "FORD ECOSPORT TITNAT 2.0",
-        "price": "79900.00",
-        "year": "2018/2019",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-7162956.html",
+        "name": "JEEP RENEGADE 1.8 AT",
+        "price": "73900.00",
+        "year": "2019/2019",
+        "km": "92000",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-At/Jeep-Renegade-18-At-2019-Londrina-Parana-6602807.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "JEEP RENEGADE 1.8 AT",
-        "price": "73900.00",
-        "year": "2019/2019",
-        "km": "92000",
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-At/Jeep-Renegade-18-At-2019-Londrina-Parana-6602807.html",
+        "name": "FORD ECOSPORT TITNAT 2.0",
+        "price": "79900.00",
+        "year": "2018/2019",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-7162956.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -401,6 +390,17 @@
         "year": "2014/2014",
         "km": "40000",
         "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "KIA CERATO SX3 1.6ATNB",
+        "price": "53900.00",
+        "year": "2012/2013",
+        "km": "130000",
+        "link_details": "https://eurocarveiculos.com/carros/Kia/Cerato/Sx3-16atnb/Kia-Cerato-Sx3-16atnb-2013-Londrina-Parana-7222856.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
