@@ -176,6 +176,17 @@
         "options": []
     },
     {
+        "name": "HYUNDAI HB20 1.0M UNIQUE",
+        "price": "55900.00",
+        "year": "2018/2019",
+        "km": "102000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7183590.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "CHEVROLET PRISMA 1.4MT LT",
         "price": "63500.00",
         "year": "2018/2019",
@@ -214,17 +225,6 @@
         "year": "2019/2019",
         "km": "109000",
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Yaris/Hb-Xlplusat/Toyota-Yaris-Hb-Xlplusat-2019-Londrina-Parana-7063300.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HYUNDAI HB20 1.0M UNIQUE",
-        "price": "55900.00",
-        "year": "2018/2019",
-        "km": "102000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7183590.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
