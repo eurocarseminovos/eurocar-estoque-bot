@@ -154,6 +154,17 @@
         "options": []
     },
     {
+        "name": "HYUNDAI HB20 1.0M UNIQUE",
+        "price": "55900.00",
+        "year": "2018/2019",
+        "km": "102000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7183590.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "JEEP RENEGADE 1.8 AT",
         "price": "73900.00",
         "year": "2019/2019",
@@ -170,17 +181,6 @@
         "year": "2018/2019",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-7162956.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HYUNDAI HB20 1.0M UNIQUE",
-        "price": "55900.00",
-        "year": "2018/2019",
-        "km": "102000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7183590.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -236,6 +236,17 @@
         "year": "2018/2019",
         "km": "103302",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN JETTA 2.0 TSI HIGHLINE 211CV GASOLINA 4P TIPTRONIC",
+        "price": "100900.00",
+        "year": "2017/2018",
+        "km": "90000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Jetta/20-Tsi-Highline-211cv-Gasolina-4p-Tiptronic/Volkswagen-Jetta-20-Tsi-Highline-211cv-Gasolina-4p-Tiptronic-2018-Londrina-Parana-7239936.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
