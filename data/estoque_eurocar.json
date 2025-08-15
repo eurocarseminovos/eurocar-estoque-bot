@@ -154,17 +154,6 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20 1.0M UNIQUE",
-        "price": "55900.00",
-        "year": "2018/2019",
-        "km": "102000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Unique/Hyundai-Hb20-10m-Unique-2019-Londrina-Parana-7183590.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "FORD ECOSPORT TITNAT 2.0",
         "price": "79900.00",
         "year": "2018/2019",
@@ -407,22 +396,22 @@
         "options": []
     },
     {
-        "name": "TOYOTA COROLLA GLI FLEX",
-        "price": "63900.00",
+        "name": "KIA CERATO SX3 1.6ATNB",
+        "price": "53900.00",
         "year": "2012/2013",
-        "km": "123000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Flex/Toyota-Corolla-Gli-Flex-2013-Londrina-Parana-7206846.html",
+        "km": "130000",
+        "link_details": "https://eurocarveiculos.com/carros/Kia/Cerato/Sx3-16atnb/Kia-Cerato-Sx3-16atnb-2013-Londrina-Parana-7222856.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "KIA CERATO SX3 1.6ATNB",
-        "price": "53900.00",
+        "name": "TOYOTA COROLLA GLI FLEX",
+        "price": "63900.00",
         "year": "2012/2013",
-        "km": "130000",
-        "link_details": "https://eurocarveiculos.com/carros/Kia/Cerato/Sx3-16atnb/Kia-Cerato-Sx3-16atnb-2013-Londrina-Parana-7222856.html",
+        "km": "123000",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Gli-Flex/Toyota-Corolla-Gli-Flex-2013-Londrina-Parana-7206846.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
