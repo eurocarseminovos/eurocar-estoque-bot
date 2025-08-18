@@ -198,17 +198,6 @@
         "options": []
     },
     {
-        "name": "TOYOTA ETIOS SD PLT15 AT",
-        "price": "68900.00",
-        "year": "2018/2019",
-        "km": "89000",
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-Plt15-At/Toyota-Etios-Sd-Plt15-At-2019-Londrina-Parana-7063384.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "TOYOTA YARIS HB XLPLUSAT",
         "price": "75900.00",
         "year": "2019/2019",
@@ -346,6 +335,17 @@
         "year": "2015/2016",
         "km": "141000",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Clio/Expression/Renault-Clio-Expression-2016-Londrina-Parana-6408222.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN FOX 1.6 CL MB",
+        "price": "46500.00",
+        "year": "2014/2015",
+        "km": "97000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/16-Cl-Mb/Volkswagen-Fox-16-Cl-Mb-2015-Londrina-Parana-7249080.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
