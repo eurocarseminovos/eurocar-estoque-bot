@@ -99,6 +99,17 @@
         "options": []
     },
     {
+        "name": "FIAT ARGO TREKKING 1.3",
+        "price": "69900.00",
+        "year": "2019/2020",
+        "km": "78000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Argo/Trekking-13/Fiat-Argo-Trekking-13-2020-Londrina-Parana-7217560.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN FOX CONNECT MB",
         "price": "62500.00",
         "year": "2019/2020",
@@ -121,17 +132,6 @@
         "options": []
     },
     {
-        "name": "FIAT ARGO TREKKING 1.3",
-        "price": "69900.00",
-        "year": "2019/2020",
-        "km": "78000",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Argo/Trekking-13/Fiat-Argo-Trekking-13-2020-Londrina-Parana-7217560.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN POLO HIGHLINE 200 TSI 1.0 FLEX 12V AUT",
         "price": "81900.00",
         "year": "2019/2019",
@@ -148,6 +148,17 @@
         "year": "2018/2019",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-7162956.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HYUNDAI HB20 1.0M COMFOR",
+        "price": "55900.00",
+        "year": "2018/2019",
+        "km": "64000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Comfor/Hyundai-Hb20-10m-Comfor-2019-Londrina-Parana-7261814.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -203,17 +214,6 @@
         "year": "2018/2019",
         "km": "103302",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HYUNDAI HB20 1.0M COMFOR",
-        "price": "55900.00",
-        "year": "2018/2019",
-        "km": "65000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Comfor/Hyundai-Hb20-10m-Comfor-2019-Londrina-Parana-7261814.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
