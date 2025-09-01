@@ -99,17 +99,6 @@
         "options": []
     },
     {
-        "name": "RENAULT DUSTER 16 D CVT",
-        "price": "74900.00",
-        "year": "2019/2020",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-Cvt/Renault-Duster-16-D-Cvt-2020-Londrina-Parana-7079870.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "FIAT ARGO TREKKING 1.3",
         "price": "69900.00",
         "year": "2019/2020",
@@ -137,6 +126,17 @@
         "year": "2019/2020",
         "km": "59000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-Mb/Volkswagen-Fox-Connect-Mb-2020-Londrina-Parana-7045164.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT DUSTER 16 D CVT",
+        "price": "74900.00",
+        "year": "2019/2020",
+        "km": "94931",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-Cvt/Renault-Duster-16-D-Cvt-2020-Londrina-Parana-7079870.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -187,17 +187,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.4MT LTZ",
-        "price": "64900.00",
-        "year": "2018/2019",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Ltz/Chevrolet-Onix-14mt-Ltz-2019-Londrina-Parana-7285641.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET PRISMA 1.4MT LT",
         "price": "63500.00",
         "year": "2018/2019",
@@ -236,6 +225,17 @@
         "year": "2018/2019",
         "km": "103302",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET ONIX 1.4MT LTZ",
+        "price": "64900.00",
+        "year": "2018/2019",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Ltz/Chevrolet-Onix-14mt-Ltz-2019-Londrina-Parana-7285641.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
