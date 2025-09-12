@@ -143,17 +143,6 @@
         "options": []
     },
     {
-        "name": "HYUNDAI HB20S 1.6M COMF",
-        "price": "65900.00",
-        "year": "2019/2019",
-        "km": "102000",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16m-Comf/Hyundai-Hb20s-16m-Comf-2019-Londrina-Parana-7298682.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "JEEP RENEGADE 1.8 AT",
         "price": "73900.00",
         "year": "2019/2019",
@@ -181,6 +170,17 @@
         "year": "2019/2019",
         "km": "117000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Lt/Chevrolet-Onix-14mt-Lt-2019-Londrina-Parana-6747839.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HYUNDAI HB20S 1.6M COMF",
+        "price": "65900.00",
+        "year": "2019/2019",
+        "km": "102000",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16m-Comf/Hyundai-Hb20s-16m-Comf-2019-Londrina-Parana-7298682.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -385,22 +385,22 @@
         "options": []
     },
     {
-        "name": "HONDA CR-V EXL FLEX",
-        "price": "82900.00",
-        "year": "2013/2013",
-        "km": "157000",
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Cr-v/Exl-Flex/Honda-Cr-v-Exl-Flex-2013-Londrina-Parana-7076099.html",
+        "name": "NISSAN FRONTIER XE (C.DUP) 4X4 2.5 TB DIESEL",
+        "price": "83900.00",
+        "year": "2012/2013",
+        "km": "115000",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Frontier/Xe-(cdup)-4x4-25-Tb-Diesel/Nissan-Frontier-Xe-(cdup)-4x4-25-Tb-Diesel-2013-Londrina-Parana-7314116.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "NISSAN FRONTIER XE (C.DUP) 4X4 2.5 TB DIESEL",
-        "price": "83900.00",
-        "year": "2012/2013",
-        "km": "115000",
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Frontier/Xe-(cdup)-4x4-25-Tb-Diesel/Nissan-Frontier-Xe-(cdup)-4x4-25-Tb-Diesel-2013-Londrina-Parana-7314116.html",
+        "name": "HONDA CR-V EXL FLEX",
+        "price": "82900.00",
+        "year": "2013/2013",
+        "km": "157000",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/Cr-v/Exl-Flex/Honda-Cr-v-Exl-Flex-2013-Londrina-Parana-7076099.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
