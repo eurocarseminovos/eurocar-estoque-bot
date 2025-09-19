@@ -231,6 +231,17 @@
         "options": []
     },
     {
+        "name": "NISSAN KICKS SV 1.6 CVT",
+        "price": "81900.00",
+        "year": "2017/2018",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sv-16-Cvt/Nissan-Kicks-Sv-16-Cvt-2018-Londrina-Parana-7354587.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "FIAT STRADA HD WK CC E",
         "price": "56500.00",
         "year": "2017/2018",
@@ -330,6 +341,28 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN SPACEFOX TREND GII",
+        "price": "43900.00",
+        "year": "2014/2014",
+        "km": "138000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Spacefox/Trend-Gii/Volkswagen-Spacefox-Trend-Gii-2014-Londrina-Parana-7344217.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FIAT FIAT UNO WAY 1.0",
+        "price": "37500.00",
+        "year": "2014/2014",
+        "km": "126000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Fiat/Uno-Way-10/Fiat-Fiat-Uno-Way-10-2014-Londrina-Parana-7353693.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HONDA BIZ 125 ES",
         "price": "11500.00",
         "year": "2014/2014",
@@ -357,17 +390,6 @@
         "year": "2013/2014",
         "km": "148000",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Sandero/Exp-16hp/Renault-Sandero-Exp-16hp-2014-Londrina-Parana-7305751.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN SPACEFOX TREND GII",
-        "price": "43900.00",
-        "year": "2014/2014",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Spacefox/Trend-Gii/Volkswagen-Spacefox-Trend-Gii-2014-Londrina-Parana-7344217.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
