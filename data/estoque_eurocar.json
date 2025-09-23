@@ -88,6 +88,17 @@
         "options": []
     },
     {
+        "name": "JEEP COMPASS LONG TF",
+        "price": "129900.00",
+        "year": "2021/2022",
+        "km": "72000",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Long-Tf/Jeep-Compass-Long-Tf-2022-Londrina-Parana-7363460.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20 10M VISION",
         "price": "62900.00",
         "year": "2020/2021",
@@ -407,22 +418,22 @@
         "options": []
     },
     {
-        "name": "HONDA CIVIC LXL 1.8 16V FLEX MEC.",
-        "price": "53900.00",
-        "year": "2011/2011",
-        "km": "165000",
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxl-18-16v-Flex-Mec/Honda-Civic-Lxl-18-16v-Flex-Mec-2011-Londrina-Parana-7208441.html",
+        "name": "RENAULT DUSTER 16 D 4X2",
+        "price": "50900.00",
+        "year": "2013/2013",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2013-Londrina-Parana-7360967.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "FORD FOCUS 1.6 FLEX FC",
-        "price": "28900.00",
-        "year": "2009/2009",
-        "km": "187000",
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Focus/16-Flex-Fc/Ford-Focus-16-Flex-Fc-2009-Londrina-Parana-6949633.html",
+        "name": "HONDA CIVIC LXL 1.8 16V FLEX MEC.",
+        "price": "53900.00",
+        "year": "2011/2011",
+        "km": "165000",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxl-18-16v-Flex-Mec/Honda-Civic-Lxl-18-16v-Flex-Mec-2011-Londrina-Parana-7208441.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
