@@ -352,17 +352,6 @@
         "options": []
     },
     {
-        "name": "FIAT FIAT UNO WAY 1.0",
-        "price": "37500.00",
-        "year": "2014/2014",
-        "km": "126000",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Fiat/Uno-Way-10/Fiat-Fiat-Uno-Way-10-2014-Londrina-Parana-7353693.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN SPACEFOX TREND GII",
         "price": "43900.00",
         "year": "2014/2014",
@@ -401,6 +390,17 @@
         "year": "2013/2014",
         "km": "148000",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Sandero/Exp-16hp/Renault-Sandero-Exp-16hp-2014-Londrina-Parana-7305751.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FIAT FIAT UNO WAY 1.0",
+        "price": "37500.00",
+        "year": "2014/2014",
+        "km": "126000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Fiat/Uno-Way-10/Fiat-Fiat-Uno-Way-10-2014-Londrina-Parana-7353693.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
