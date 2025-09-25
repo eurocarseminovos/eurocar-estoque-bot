@@ -110,17 +110,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN VIRTUS 1.6 MSI",
-        "price": "70900.00",
-        "year": "2019/2020",
-        "km": "85000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi/Volkswagen-Virtus-16-Msi-2020-Londrina-Parana-7339773.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "FIAT ARGO TREKKING 1.3",
         "price": "69900.00",
         "year": "2019/2020",
@@ -132,11 +121,33 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN VIRTUS 1.6 MSI",
+        "price": "70900.00",
+        "year": "2019/2020",
+        "km": "85000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi/Volkswagen-Virtus-16-Msi-2020-Londrina-Parana-7339773.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "RENAULT DUSTER 16 D CVT",
         "price": "74900.00",
         "year": "2019/2020",
         "km": "94931",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-Cvt/Renault-Duster-16-D-Cvt-2020-Londrina-Parana-7079870.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
+        "price": "61900.00",
+        "year": "2018/2019",
+        "km": "103302",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -203,17 +214,6 @@
         "year": "2019/2019",
         "km": "88000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Flex-16v-4p-Aut/Volkswagen-Virtus-16-Msi-Flex-16v-4p-Aut-2019-Londrina-Parana-7360333.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
-        "price": "62900.00",
-        "year": "2018/2019",
-        "km": "103302",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
