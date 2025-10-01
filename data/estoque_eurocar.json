@@ -220,17 +220,6 @@
         "options": []
     },
     {
-        "name": "FIAT STRADA ADVENTURE CD",
-        "price": "73900.00",
-        "year": "2018/2018",
-        "km": "169000",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Adventure-Cd/Fiat-Strada-Adventure-Cd-2018-Londrina-Parana-7356308.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
         "price": "89900.00",
         "year": "2017/2018",
@@ -297,6 +286,17 @@
         "options": []
     },
     {
+        "name": "FIAT STRADA ADVENTURE CD",
+        "price": "73900.00",
+        "year": "2018/2018",
+        "km": "169000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Adventure-Cd/Fiat-Strada-Adventure-Cd-2018-Londrina-Parana-7356308.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
         "price": "118900.00",
         "year": "2017/2017",
@@ -335,17 +335,6 @@
         "year": "2015/2016",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2016-Londrina-Parana-7388829.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN SAVEIRO 1.6 CS",
-        "price": "47900.00",
-        "year": "2014/2014",
-        "km": "90000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/16-Cs/Volkswagen-Saveiro-16-Cs-2014-Londrina-Parana-7342936.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -407,11 +396,11 @@
         "options": []
     },
     {
-        "name": "RENAULT DUSTER 16 D 4X2",
-        "price": "50900.00",
-        "year": "2013/2013",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2013-Londrina-Parana-7360967.html",
+        "name": "VOLKSWAGEN SAVEIRO 1.6 CS",
+        "price": "47900.00",
+        "year": "2014/2014",
+        "km": "90000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/16-Cs/Volkswagen-Saveiro-16-Cs-2014-Londrina-Parana-7342936.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -423,6 +412,17 @@
         "year": "2013/2013",
         "km": "157000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Cr-v/Exl-Flex/Honda-Cr-v-Exl-Flex-2013-Londrina-Parana-7076099.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT DUSTER 16 D 4X2",
+        "price": "50900.00",
+        "year": "2013/2013",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2013-Londrina-Parana-7360967.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
