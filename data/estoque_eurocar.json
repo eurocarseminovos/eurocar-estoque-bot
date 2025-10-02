@@ -198,17 +198,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN VIRTUS 1.6 MSI FLEX 16V 4P AUT.",
-        "price": "73900.00",
-        "year": "2019/2019",
-        "km": "88000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Flex-16v-4p-Aut/Volkswagen-Virtus-16-Msi-Flex-16v-4p-Aut-2019-Londrina-Parana-7360333.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 1.4MT LTZ",
         "price": "64900.00",
         "year": "2018/2019",
@@ -324,6 +313,17 @@
         "year": "2015/2016",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2016-Londrina-Parana-7388829.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET PRISMA 1.0MT ADV",
+        "price": "46500.00",
+        "year": "2014/2015",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/10mt-Adv/Chevrolet-Prisma-10mt-Adv-2015-Londrina-Parana-7392521.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
