@@ -242,17 +242,6 @@
         "options": []
     },
     {
-        "name": "NISSAN KICKS SV 1.6 CVT",
-        "price": "81900.00",
-        "year": "2017/2018",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sv-16-Cvt/Nissan-Kicks-Sv-16-Cvt-2018-Londrina-Parana-7354587.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 1.4AT LTZ",
         "price": "67500.00",
         "year": "2018/2018",
@@ -269,6 +258,17 @@
         "year": "2018/2018",
         "km": "106000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7063260.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "NISSAN KICKS SL CVT 1.6 FLEX",
+        "price": "81900.00",
+        "year": "2016/2017",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt-16-Flex/Nissan-Kicks-Sl-Cvt-16-Flex-2017-Londrina-Parana-7354587.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
