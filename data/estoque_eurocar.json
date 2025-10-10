@@ -264,6 +264,39 @@
         "options": []
     },
     {
+        "name": "RENAULT DUSTER 20 D 4X2",
+        "price": "66900.00",
+        "year": "2016/2017",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2/Renault-Duster-20-D-4x2-2017-Londrina-Parana-7381903.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "RENAULT DUSTER OROCH 2.0 16V FLEX DYNAMIQUE 4P AUTOMATICO",
+        "price": "72900.00",
+        "year": "2016/2017",
+        "km": "106000",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Oroch-20-16v-Flex-Dynamique-4p-Automatico/Renault-Duster-Oroch-20-16v-Flex-Dynamique-4p-Automatico-2017-Londrina-Parana-7403795.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN SAVEIRO CE CROSS MA",
+        "price": "75900.00",
+        "year": "2016/2017",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/Ce-Cross-Ma/Volkswagen-Saveiro-Ce-Cross-Ma-2017-Londrina-Parana-7403551.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
         "price": "118900.00",
         "year": "2017/2017",
@@ -286,39 +319,6 @@
         "options": []
     },
     {
-        "name": "RENAULT DUSTER 20 D 4X2",
-        "price": "66900.00",
-        "year": "2016/2017",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2/Renault-Duster-20-D-4x2-2017-Londrina-Parana-7381903.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN SAVEIRO CE CROSS MA",
-        "price": "75900.00",
-        "year": "2016/2017",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/Ce-Cross-Ma/Volkswagen-Saveiro-Ce-Cross-Ma-2017-Londrina-Parana-7403551.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "RENAULT DUSTER OROCH 2.0 16V FLEX DYNAMIQUE 4P AUTOMATICO",
-        "price": "72900.00",
-        "year": "2016/2017",
-        "km": "106000",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Oroch-20-16v-Flex-Dynamique-4p-Automatico/Renault-Duster-Oroch-20-16v-Flex-Dynamique-4p-Automatico-2017-Londrina-Parana-7403795.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "NISSAN KICKS SL CVT 1.6 FLEX",
         "price": "81900.00",
         "year": "2016/2017",
@@ -330,22 +330,22 @@
         "options": []
     },
     {
-        "name": "RENAULT DUSTER 16 D 4X2",
-        "price": "61900.00",
-        "year": "2015/2016",
+        "name": "CHEVROLET ONIX 1.0MT LS",
+        "price": "46900.00",
+        "year": "2016/2016",
         "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2016-Londrina-Parana-7388829.html",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Ls/Chevrolet-Onix-10mt-Ls-2016-Londrina-Parana-7409838.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.0MT LS",
-        "price": "46900.00",
-        "year": "2016/2016",
+        "name": "RENAULT DUSTER 16 D 4X2",
+        "price": "61900.00",
+        "year": "2015/2016",
         "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Ls/Chevrolet-Onix-10mt-Ls-2016-Londrina-Parana-7409838.html",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2016-Londrina-Parana-7388829.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
