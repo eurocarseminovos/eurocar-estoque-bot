@@ -99,17 +99,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN VIRTUS AF",
-        "price": "75900.00",
-        "year": "2019/2020",
-        "km": "78000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/Af/Volkswagen-Virtus-Af-2020-Londrina-Parana-7403817.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "FIAT ARGO TREKKING 1.3",
         "price": "69900.00",
         "year": "2019/2020",
@@ -132,33 +121,22 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN VIRTUS AF",
+        "price": "75900.00",
+        "year": "2019/2020",
+        "km": "78000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/Af/Volkswagen-Virtus-Af-2020-Londrina-Parana-7403817.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20S 1.6M COMF",
         "price": "65900.00",
         "year": "2019/2019",
         "km": "102000",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16m-Comf/Hyundai-Hb20s-16m-Comf-2019-Londrina-Parana-7298682.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN POLO HIGHLINE 200 TSI 1.0 FLEX 12V AUT",
-        "price": "80900.00",
-        "year": "2019/2019",
-        "km": "104000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Highline-200-Tsi-10-Flex-12v-Aut/Volkswagen-Polo-Highline-200-Tsi-10-Flex-12v-Aut-2019-Londrina-Parana-7242825.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN POLO HIGHLINE AD TSI 1.0 FLEX AUT",
-        "price": "81500.00",
-        "year": "2018/2019",
-        "km": "92000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Highline-Ad-Tsi-10-Flex-Aut/Volkswagen-Polo-Highline-Ad-Tsi-10-Flex-Aut-2019-Londrina-Parana-7401008.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -220,6 +198,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN POLO HIGHLINE 200 TSI 1.0 FLEX 12V AUT",
+        "price": "80900.00",
+        "year": "2019/2019",
+        "km": "104000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Highline-200-Tsi-10-Flex-12v-Aut/Volkswagen-Polo-Highline-200-Tsi-10-Flex-12v-Aut-2019-Londrina-Parana-7242825.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "CHEVROLET TRACKER PREMIER",
         "price": "88900.00",
         "year": "2018/2018",
@@ -258,17 +247,6 @@
         "year": "2017/2018",
         "km": "123000",
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Hd-Wk-Cc-E/Fiat-Strada-Hd-Wk-Cc-E-2018-Londrina-Parana-7157394.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "RENAULT DUSTER OROCH 2.0 16V FLEX DYNAMIQUE 4P AUTOMATICO",
-        "price": "72900.00",
-        "year": "2016/2017",
-        "km": "106000",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Oroch-20-16v-Flex-Dynamique-4p-Automatico/Renault-Duster-Oroch-20-16v-Flex-Dynamique-4p-Automatico-2017-Londrina-Parana-7403795.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -319,22 +297,22 @@
         "options": []
     },
     {
-        "name": "NISSAN KICKS SL CVT 1.6 FLEX",
-        "price": "81900.00",
+        "name": "RENAULT DUSTER OROCH 2.0 16V FLEX DYNAMIQUE 4P AUTOMATICO",
+        "price": "72900.00",
         "year": "2016/2017",
-        "km": "121000",
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt-16-Flex/Nissan-Kicks-Sl-Cvt-16-Flex-2017-Londrina-Parana-7354587.html",
+        "km": "106000",
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Oroch-20-16v-Flex-Dynamique-4p-Automatico/Renault-Duster-Oroch-20-16v-Flex-Dynamique-4p-Automatico-2017-Londrina-Parana-7403795.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX 1.0MT LS",
-        "price": "46900.00",
-        "year": "2016/2016",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Ls/Chevrolet-Onix-10mt-Ls-2016-Londrina-Parana-7409838.html",
+        "name": "NISSAN KICKS SL CVT 1.6 FLEX",
+        "price": "81900.00",
+        "year": "2016/2017",
+        "km": "121000",
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt-16-Flex/Nissan-Kicks-Sl-Cvt-16-Flex-2017-Londrina-Parana-7354587.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -357,6 +335,17 @@
         "year": "2016/2016",
         "km": "148000",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16m-Comf/Hyundai-Hb20s-16m-Comf-2016-Londrina-Parana-7426082.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET ONIX 1.0MT LS",
+        "price": "46900.00",
+        "year": "2016/2016",
+        "km": "131000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Ls/Chevrolet-Onix-10mt-Ls-2016-Londrina-Parana-7409838.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -456,6 +445,17 @@
         "year": "2013/2013",
         "km": "137000",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2013-Londrina-Parana-7360967.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET AGILE HATCH LT 1.4 8V (FLEX) 4P",
+        "price": "36900.00",
+        "year": "2012/2013",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Agile/Hatch-Lt-14-8v-(flex)-4p/Chevrolet-Agile-Hatch-Lt-14-8v-(flex)-4p-2013-Londrina-Parana-7434922.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
