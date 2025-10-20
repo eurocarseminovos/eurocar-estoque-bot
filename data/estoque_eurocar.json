@@ -330,6 +330,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN SAVEIRO 1.6 CS",
+        "price": "48500.00",
+        "year": "2013/2014",
+        "km": "159000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/16-Cs/Volkswagen-Saveiro-16-Cs-2014-Londrina-Parana-7433208.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN SPACEFOX TREND GII",
         "price": "43900.00",
         "year": "2014/2014",
@@ -346,17 +357,6 @@
         "year": "2014/2014",
         "km": "40000",
         "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN SAVEIRO 1.6 CS",
-        "price": "48500.00",
-        "year": "2013/2014",
-        "km": "159000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/16-Cs/Volkswagen-Saveiro-16-Cs-2014-Londrina-Parana-7433208.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
