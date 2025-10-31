@@ -88,6 +88,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN POLO CL AD",
+        "price": "82900.00",
+        "year": "2021/2021",
+        "km": "60000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2021-Londrina-Parana-7492463.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN FOX CONNECT 1.6 MB MANUAL",
         "price": "62900.00",
         "year": "2019/2020",
@@ -203,6 +214,17 @@
         "year": "2019/2019",
         "km": "104000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Highline-200-Tsi-10-Flex-12v-Aut/Volkswagen-Polo-Highline-200-Tsi-10-Flex-12v-Aut-2019-Londrina-Parana-7242825.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN VIRTUS 1.6 MSI AUTOMATICO",
+        "price": "73900.00",
+        "year": "2018/2019",
+        "km": "115000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Automatico/Volkswagen-Virtus-16-Msi-Automatico-2019-Londrina-Parana-7492624.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
