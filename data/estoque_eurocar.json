@@ -132,6 +132,17 @@
         "options": []
     },
     {
+        "name": "FIAT TORO VOLCANO AT D4",
+        "price": "104900.00",
+        "year": "2018/2019",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Volcano-At-D4/Fiat-Toro-Volcano-At-D4-2019-Londrina-Parana-7490056.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20S 1.6M COMF",
         "price": "65900.00",
         "year": "2019/2019",
@@ -344,7 +355,7 @@
         "name": "CHEVROLET CELTA 1.0L LT",
         "price": "37900.00",
         "year": "2014/2015",
-        "km": "111",
+        "km": "72000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Celta/10l-Lt/Chevrolet-Celta-10l-Lt-2015-Londrina-Parana-7393003.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
