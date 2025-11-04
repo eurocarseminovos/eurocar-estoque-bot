@@ -33,17 +33,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN GOL 1.6",
-        "price": "58900.00",
-        "year": "2021/2022",
-        "km": "59000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/16/Volkswagen-Gol-16-2022-Londrina-Parana-7009438.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "JEEP COMPASS LONG TF",
         "price": "129900.00",
         "year": "2021/2022",
@@ -324,17 +313,6 @@
         "year": "2016/2017",
         "km": "106000",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Oroch-20-16v-Flex-Dynamique-4p-Automatico/Renault-Duster-Oroch-20-16v-Flex-Dynamique-4p-Automatico-2017-Londrina-Parana-7403795.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "RENAULT DUSTER 16 D 4X2",
-        "price": "61900.00",
-        "year": "2015/2016",
-        "km": "132000",
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/16-D-4x2/Renault-Duster-16-D-4x2-2016-Londrina-Parana-7388829.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
