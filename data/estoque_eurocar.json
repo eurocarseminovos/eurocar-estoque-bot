@@ -22,6 +22,17 @@
         "options": []
     },
     {
+        "name": "HYUNDAI HB20 10TM COMFORT",
+        "price": "69900.00",
+        "year": "2022/2023",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10tm-Comfort/Hyundai-Hb20-10tm-Comfort-2023-Londrina-Parana-7522631.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
         "price": "62900.00",
         "year": "2021/2022",
@@ -297,6 +308,28 @@
         "options": []
     },
     {
+        "name": "JEEP RENEGADE SPORT MT",
+        "price": "66900.00",
+        "year": "2017/2017",
+        "km": "96000",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/Sport-Mt/Jeep-Renegade-Sport-Mt-2017-Londrina-Parana-7522070.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN NOVO FOX HL MD",
+        "price": "52900.00",
+        "year": "2015/2016",
+        "km": "136000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Novo/Fox-Hl-Md/Volkswagen-Novo-Fox-Hl-Md-2016-Londrina-Parana-7524069.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20S 1.6M COMF",
         "price": "58900.00",
         "year": "2016/2016",
@@ -412,17 +445,6 @@
         "year": "2013/2013",
         "km": "157000",
         "link_details": "https://eurocarveiculos.com/carros/Honda/Cr-v/Exl-Flex/Honda-Cr-v-Exl-Flex-2013-Londrina-Parana-7076099.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET VECTRA SD EXPRESSION",
-        "price": "39900.00",
-        "year": "2010/2010",
-        "km": "135000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Vectra/Sd-Expression/Chevrolet-Vectra-Sd-Expression-2010-Londrina-Parana-7399719.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
