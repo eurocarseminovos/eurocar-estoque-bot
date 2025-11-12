@@ -110,6 +110,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET ONIX 10TAT PR2",
+        "price": "74900.00",
+        "year": "2020/2020",
+        "km": "59600",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10tat-Pr2/Chevrolet-Onix-10tat-Pr2-2020-Londrina-Parana-7489801.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN FOX CONNECT 1.6 MB MANUAL",
         "price": "62900.00",
         "year": "2019/2020",
@@ -126,17 +137,6 @@
         "year": "2020/2020",
         "km": "65000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10tat-Pr2/Chevrolet-Onix-10tat-Pr2-2020-Londrina-Parana-7450483.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET ONIX 10TAT PR2",
-        "price": "74900.00",
-        "year": "2020/2020",
-        "km": "59600",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10tat-Pr2/Chevrolet-Onix-10tat-Pr2-2020-Londrina-Parana-7489801.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -355,7 +355,7 @@
         "name": "TOYOTA COROLLA XEI20FLEX",
         "price": "84900.00",
         "year": "2014/2015",
-        "km": "111",
+        "km": "148000",
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2015-Londrina-Parana-7450412.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
