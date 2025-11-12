@@ -121,17 +121,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN FOX CONNECT 1.6 MB MANUAL",
-        "price": "62900.00",
-        "year": "2019/2020",
-        "km": "89000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Connect-16-Mb-Manual/Volkswagen-Fox-Connect-16-Mb-Manual-2020-Londrina-Parana-7453160.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX 10TAT PR2",
         "price": "74900.00",
         "year": "2020/2020",
@@ -264,17 +253,6 @@
         "options": []
     },
     {
-        "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
-        "price": "118900.00",
-        "year": "2017/2017",
-        "km": "119000",
-        "link_details": "https://eurocarveiculos.com/carros/Bmw/320i/20-16v-Turbo-Active-Flex-4p-Automatico/Bmw-320i-20-16v-Turbo-Active-Flex-4p-Automatico-2017-Londrina-Parana-7242793.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN SAVEIRO CE CROSS MA",
         "price": "75900.00",
         "year": "2016/2017",
@@ -313,6 +291,17 @@
         "year": "2017/2017",
         "km": "96000",
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/Sport-Mt/Jeep-Renegade-Sport-Mt-2017-Londrina-Parana-7522070.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
+        "price": "116900.00",
+        "year": "2017/2017",
+        "km": "119000",
+        "link_details": "https://eurocarveiculos.com/carros/Bmw/320i/20-16v-Turbo-Active-Flex-4p-Automatico/Bmw-320i-20-16v-Turbo-Active-Flex-4p-Automatico-2017-Londrina-Parana-7242793.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
