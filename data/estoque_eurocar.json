@@ -220,17 +220,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET CHEV CRUZE LTZ NB AT",
-        "price": "87900.00",
-        "year": "2017/2018",
-        "km": "112000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Ltz-Nb-At/Chevrolet-Chev-Cruze-Ltz-Nb-At-2018-Londrina-Parana-7079908.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "FIAT STRADA HD WK CC E",
         "price": "55500.00",
         "year": "2017/2018",
@@ -258,6 +247,17 @@
         "year": "2017/2017",
         "km": "97000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/Tl-Mcv-82cv-5p/Volkswagen-Gol-Tl-Mcv-82cv-5p-2017-Londrina-Parana-7503911.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET ONIX 1.4MT LT",
+        "price": "56900.00",
+        "year": "2016/2017",
+        "km": "97000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Lt/Chevrolet-Onix-14mt-Lt-2017-Londrina-Parana-7533521.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
