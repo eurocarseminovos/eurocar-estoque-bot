@@ -11,6 +11,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET ONIX PLUS 10TMT LT1",
+        "price": "78900.00",
+        "year": "2022/2023",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tmt-Lt1/Chevrolet-Onix-Plus-10tmt-Lt1-2023-Londrina-Parana-7541389.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20 10TM COMFORT",
         "price": "69900.00",
         "year": "2022/2023",
@@ -44,6 +55,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "65900.00",
+        "year": "2021/2022",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-7541447.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "JEEP COMPASS LONG TF",
         "price": "129900.00",
         "year": "2021/2022",
@@ -60,6 +82,17 @@
         "year": "2021/2022",
         "km": "62000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2022-Londrina-Parana-7067082.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "62900.00",
+        "year": "2020/2021",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7541481.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -209,11 +242,33 @@
         "options": []
     },
     {
+        "name": "JEEP COMPASS LONGITUDE 2.0 FLEX 16V AUT",
+        "price": "92900.00",
+        "year": "2017/2018",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-20-Flex-16v-Aut/Jeep-Compass-Longitude-20-Flex-16v-Aut-2018-Londrina-Parana-7541337.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "RENAULT DUSTER DYN16 SCE",
         "price": "66900.00",
         "year": "2017/2018",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Dyn16-Sce/Renault-Duster-Dyn16-Sce-2018-Londrina-Parana-7536433.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET CRUZE 1.4 TURBO LT 16V FLEX 4P AUTOMATICO",
+        "price": "82900.00",
+        "year": "2017/2018",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Cruze/14-Turbo-Lt-16v-Flex-4p-Automatico/Chevrolet-Cruze-14-Turbo-Lt-16v-Flex-4p-Automatico-2018-Londrina-Parana-7541278.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -308,6 +363,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET CHEV CRUZE LT NB AT",
+        "price": "72900.00",
+        "year": "2016/2016",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Chev/Cruze-Lt-Nb-At/Chevrolet-Chev-Cruze-Lt-Nb-At-2016-Londrina-Parana-7541244.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "CHEVROLET TRACKER LTZ 1.8 16V Flex 4x2 Aut.",
         "price": "69900.00",
         "year": "2015/2015",
@@ -335,17 +401,6 @@
         "year": "2013/2014",
         "km": "126000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Spin/18l-At-Ltz/Chevrolet-Spin-18l-At-Ltz-2014-Londrina-Parana-7509698.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HONDA CIVIC LXR",
-        "price": "71900.00",
-        "year": "2014/2014",
-        "km": "139000",
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Civic/Lxr/Honda-Civic-Lxr-2014-Londrina-Parana-6961716.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
