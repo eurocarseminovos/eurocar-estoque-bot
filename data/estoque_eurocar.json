@@ -11,6 +11,17 @@
         "options": []
     },
     {
+        "name": "CHEVROLET ONIX PLUS 10TAT LT1",
+        "price": "78900.00",
+        "year": "2023/2023",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Lt1/Chevrolet-Onix-Plus-10tat-Lt1-2023-Londrina-Parana-7543851.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "CHEVROLET ONIX PLUS 10TMT LT1",
         "price": "75900.00",
         "year": "2022/2023",
@@ -88,6 +99,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN POLO CL AD",
+        "price": "82900.00",
+        "year": "2021/2021",
+        "km": "60000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2021-Londrina-Parana-7492463.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
         "price": "62900.00",
         "year": "2020/2021",
@@ -99,11 +121,11 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN POLO CL AD",
-        "price": "82900.00",
-        "year": "2021/2021",
-        "km": "60000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2021-Londrina-Parana-7492463.html",
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "62900.00",
+        "year": "2020/2021",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7543921.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -137,17 +159,6 @@
         "year": "2020/2020",
         "km": "59600",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10tat-Pr2/Chevrolet-Onix-10tat-Pr2-2020-Londrina-Parana-7489801.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "CHEVROLET ONIX 10TAT PR2",
-        "price": "74900.00",
-        "year": "2020/2020",
-        "km": "65000",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10tat-Pr2/Chevrolet-Onix-10tat-Pr2-2020-Londrina-Parana-7450483.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -242,17 +253,6 @@
         "options": []
     },
     {
-        "name": "JEEP COMPASS LONGITUDE 2.0 FLEX 16V AUT",
-        "price": "92900.00",
-        "year": "2017/2018",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-20-Flex-16v-Aut/Jeep-Compass-Longitude-20-Flex-16v-Aut-2018-Londrina-Parana-7541337.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "RENAULT DUSTER DYN16 SCE",
         "price": "66900.00",
         "year": "2017/2018",
@@ -269,6 +269,17 @@
         "year": "2017/2018",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Cruze/14-Turbo-Lt-16v-Flex-4p-Automatico/Chevrolet-Cruze-14-Turbo-Lt-16v-Flex-4p-Automatico-2018-Londrina-Parana-7541278.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "JEEP COMPASS LONGITUDE 2.0 FLEX 16V AUT",
+        "price": "92900.00",
+        "year": "2017/2018",
+        "km": "111",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-20-Flex-16v-Aut/Jeep-Compass-Longitude-20-Flex-16v-Aut-2018-Londrina-Parana-7541337.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
