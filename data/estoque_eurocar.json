@@ -209,6 +209,17 @@
         "options": []
     },
     {
+        "name": "VOLKSWAGEN VIRTUS 1.6 MSI AUTOMATICO",
+        "price": "73900.00",
+        "year": "2018/2019",
+        "km": "115000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Automatico/Volkswagen-Virtus-16-Msi-Automatico-2019-Londrina-Parana-7492624.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
         "price": "60900.00",
         "year": "2018/2019",
@@ -236,17 +247,6 @@
         "year": "2019/2019",
         "km": "92000",
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-At/Jeep-Renegade-18-At-2019-Londrina-Parana-6602807.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "VOLKSWAGEN VIRTUS 1.6 MSI AUTOMATICO",
-        "price": "73900.00",
-        "year": "2018/2019",
-        "km": "115000",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Automatico/Volkswagen-Virtus-16-Msi-Automatico-2019-Londrina-Parana-7492624.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
