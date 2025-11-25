@@ -187,17 +187,6 @@
         "options": []
     },
     {
-        "name": "FIAT TORO VOLCANO AT D4",
-        "price": "104900.00",
-        "year": "2018/2019",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Volcano-At-D4/Fiat-Toro-Volcano-At-D4-2019-Londrina-Parana-7490056.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "VOLKSWAGEN VIRTUS 1.6 MSI AUTOMATICO",
         "price": "73900.00",
         "year": "2018/2019",
@@ -247,6 +236,17 @@
         "year": "2019/2019",
         "km": "95000",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10m-Uniq/Hyundai-Hb20s-10m-Uniq-2019-Londrina-Parana-7562789.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "FIAT TORO VOLCANO AT D4",
+        "price": "104900.00",
+        "year": "2018/2019",
+        "km": "143000",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Volcano-At-D4/Fiat-Toro-Volcano-At-D4-2019-Londrina-Parana-7490056.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
