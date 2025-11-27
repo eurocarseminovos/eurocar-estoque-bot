@@ -11,22 +11,22 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX PLUS 10TMT LT1",
-        "price": "75900.00",
+        "name": "HYUNDAI HB20 10TM COMFORT",
+        "price": "69900.00",
         "year": "2022/2023",
         "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tmt-Lt1/Chevrolet-Onix-Plus-10tmt-Lt1-2023-Londrina-Parana-7541389.html",
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10tm-Comfort/Hyundai-Hb20-10tm-Comfort-2023-Londrina-Parana-7522631.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
         "options": []
     },
     {
-        "name": "HYUNDAI HB20 10TM COMFORT",
-        "price": "69900.00",
+        "name": "CHEVROLET ONIX PLUS 10TMT LT1",
+        "price": "75900.00",
         "year": "2022/2023",
         "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10tm-Comfort/Hyundai-Hb20-10tm-Comfort-2023-Londrina-Parana-7522631.html",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tmt-Lt1/Chevrolet-Onix-Plus-10tmt-Lt1-2023-Londrina-Parana-7541389.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -176,6 +176,17 @@
         "options": []
     },
     {
+        "name": "FORD ECOSPORT STM4AT",
+        "price": "81900.00",
+        "year": "2019/2020",
+        "km": "92000",
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Stm4at/Ford-Ecosport-Stm4at-2020-Londrina-Parana-7575085.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
         "name": "HYUNDAI HB20S 1.6M COMF",
         "price": "65900.00",
         "year": "2019/2019",
@@ -291,17 +302,6 @@
         "year": "2017/2018",
         "km": "123000",
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Hd-Wk-Cc-E/Fiat-Strada-Hd-Wk-Cc-E-2018-Londrina-Parana-7157394.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "NISSAN VERSA 1.6 16V SV AUT",
-        "price": "57900.00",
-        "year": "2017/2018",
-        "km": "120000",
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Versa/16-16v-Sv-Aut/Nissan-Versa-16-16v-Sv-Aut-2018-Londrina-Parana-7469738.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -434,17 +434,6 @@
         "year": "2013/2014",
         "km": "126000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Spin/18l-At-Ltz/Chevrolet-Spin-18l-At-Ltz-2014-Londrina-Parana-7509698.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
-        "name": "HONDA BIZ 125 ES",
-        "price": "11500.00",
-        "year": "2014/2014",
-        "km": "40000",
-        "link_details": "https://eurocarveiculos.com/motos/Honda/Biz/125-Es/Honda-Biz-125-Es-2014-Londrina-Parana-7011476.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
