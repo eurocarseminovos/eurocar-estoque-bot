@@ -11,17 +11,6 @@
         "options": []
     },
     {
-        "name": "CHEVROLET ONIX PLUS 10TAT LT1",
-        "price": "78900.00",
-        "year": "2023/2023",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Lt1/Chevrolet-Onix-Plus-10tat-Lt1-2023-Londrina-Parana-7543851.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX PLUS 10TMT LT1",
         "price": "75900.00",
         "year": "2022/2023",
@@ -38,6 +27,17 @@
         "year": "2022/2023",
         "km": "111",
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10tm-Comfort/Hyundai-Hb20-10tm-Comfort-2023-Londrina-Parana-7522631.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "CHEVROLET ONIX PLUS 10TAT LT1",
+        "price": "78900.00",
+        "year": "2023/2023",
+        "km": "39000",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Lt1/Chevrolet-Onix-Plus-10tat-Lt1-2023-Londrina-Parana-7543851.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
@@ -66,17 +66,6 @@
         "options": []
     },
     {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "65900.00",
-        "year": "2021/2022",
-        "km": "111",
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-7541447.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "JEEP COMPASS LONG TF",
         "price": "129900.00",
         "year": "2021/2022",
@@ -93,6 +82,17 @@
         "year": "2021/2022",
         "km": "62000",
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2022-Londrina-Parana-7067082.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "62900.00",
+        "year": "2021/2022",
+        "km": "55000",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-7541447.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
