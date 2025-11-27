@@ -66,17 +66,6 @@
         "options": []
     },
     {
-        "name": "JEEP COMPASS LONG TF",
-        "price": "129900.00",
-        "year": "2021/2022",
-        "km": "72000",
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Long-Tf/Jeep-Compass-Long-Tf-2022-Londrina-Parana-7363460.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
-        "description": "",
-        "photos": [],
-        "options": []
-    },
-    {
         "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
         "price": "79900.00",
         "year": "2021/2022",
@@ -93,6 +82,17 @@
         "year": "2021/2022",
         "km": "55000",
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-7541447.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
+        "description": "",
+        "photos": [],
+        "options": []
+    },
+    {
+        "name": "JEEP COMPASS LONG TF",
+        "price": "127900.00",
+        "year": "2021/2022",
+        "km": "72000",
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Long-Tf/Jeep-Compass-Long-Tf-2022-Londrina-Parana-7363460.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif",
         "description": "",
         "photos": [],
