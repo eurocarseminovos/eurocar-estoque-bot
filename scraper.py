@@ -7,9 +7,13 @@ import re
 BASE_URL = "https://eurocarveiculos.com"
 LISTING_URL = f"{BASE_URL}/multipla"
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+}
+
 def scrape_listings():
     print(f"Acessando: {LISTING_URL}")
-    response = requests.get(LISTING_URL, timeout=15)
+    response = requests.get(LISTING_URL, headers=HEADERS, timeout=15)
     response.raise_for_status()
     soup = BeautifulSoup(response.content, "html.parser")
 
@@ -21,8 +25,8 @@ def scrape_listings():
     for card in cards:
         try:
             name_tag = card.select_one("a.big-inf2")
-            name = name_tag.get_text(strip=True)
-            link = name_tag.get("href")
+            name = name_tag.get_text(strip=True) if name_tag else "Veículo sem nome"
+            link = name_tag.get("href") if name_tag else ""
             if link and not link.startswith("http"):
                 link = BASE_URL + link
 
