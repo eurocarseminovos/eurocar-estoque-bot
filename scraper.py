@@ -11,8 +11,16 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
 
-def clean_text(text: str) -> str:
+def clean_text(text):
     return re.sub(r"\s+", " ", text or "").strip()
+
+def extract_field(text, label, digits_only=False):
+    pattern = rf"{label}\s*[:\-]?\s*(.+)"
+    match = re.search(pattern, text, re.IGNORECASE)
+    if match:
+        value = clean_text(match.group(1))
+        return re.sub(r"[^\d]", "", value) if digits_only else value
+    return ""
 
 def get_vehicle_details(url):
     details = {
@@ -32,72 +40,30 @@ def get_vehicle_details(url):
         print(f"   ↳ status detalhes: {resp.status_code}")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "html.parser")
+        full_text = soup.get_text("\n", strip=True)
 
-        # -------- PREÇO --------
-        price_text = ""
-        price_tag = soup.select_one("h3.preco-indigo") or soup.find("h3", class_=re.compile("preco", re.I))
-        if price_tag:
-            price_text = price_tag.get_text(" ", strip=True)
+        # Preço
+        price_match = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
+        if price_match:
+            details["price"] = price_match.group(1).replace(".", "").replace(",", ".")
 
-        if not price_text:
-            full_text = soup.get_text(" ", strip=True)
-            m_price = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
-            if m_price:
-                price_text = m_price.group(1)
+        # Ficha Técnica
+        details["year"] = extract_field(full_text, "Ano")
+        details["km"] = extract_field(full_text, "KM", digits_only=True)
+        details["color"] = extract_field(full_text, "Cor")
+        details["transmission"] = extract_field(full_text, "Câmbio")
+        details["fuel"] = extract_field(full_text, "Combustível")
+        details["doors"] = extract_field(full_text, "Portas", digits_only=True)
 
-        if price_text:
-            m = re.search(r"([\d\.]+,\d{2})", price_text)
-            if m:
-                details["price"] = m.group(1).replace(".", "").replace(",", ".")
-            else:
-                details["price"] = "0.00"
-
-        # -------- FICHA TÉCNICA --------
-        ficha_div = soup.find(string=re.compile("FICHA TÉCNICA", re.I))
-        if ficha_div and ficha_div.parent:
-            ficha_container = ficha_div.parent
-            for _ in range(3):
-                if ficha_container.parent:
-                    ficha_container = ficha_container.parent
-            ficha_text = ficha_container.get_text("\n", strip=True)
-        else:
-            ficha_text = soup.get_text("\n", strip=True)
-
-        ficha_text = ficha_text.replace("\r", "")
-
-        def search_after(label):
-            pattern = rf"{label}\s*:\s*(.+)"
-            m = re.search(pattern, ficha_text, flags=re.IGNORECASE)
-            return clean_text(m.group(1)) if m else ""
-
-        # Ano
-        details["year"] = search_after("Ano")
-
-        # KM
-        km_raw = search_after("KM")
-        if km_raw:
-            m_km = re.search(r"([\d\.]+)", km_raw)
-            if m_km:
-                details["km"] = m_km.group(1).replace(".", "")
-
-        # Câmbio
-        details["transmission"] = search_after("Câmbio")
-
-        # Combustível
-        details["fuel"] = search_after("Combustível")
-
-        # Cor
-        details["color"] = search_after("Cor")
-
-        # Portas
-        details["doors"] = search_after("Portas")
-
-        # -------- OPCIONAIS --------
+        # Opcionais
         for ul in soup.select("ul.coluna"):
             for li in ul.select("li.linha span"):
                 opt = clean_text(li.get_text())
                 if opt:
                     details["options"].append(opt)
+
+        # Log por campo
+        print(f"      ↳ Ano: {details['year']}, KM: {details['km']}, Cor: {details['color']}, Câmbio: {details['transmission']}, Combustível: {details['fuel']}, Portas: {details['doors']}")
 
     except Exception as e:
         print(f"   [ERRO detalhes] {url}: {e}")
@@ -117,7 +83,6 @@ def scrape_listings():
 
     for card in cards:
         try:
-            # Nome e link bruto vindo da listagem
             name_tag = card.select_one("a.big-inf2")
             if not name_tag:
                 continue
@@ -127,7 +92,6 @@ def scrape_listings():
             if not link:
                 continue
 
-            # MONTA O LINK CORRETO
             if link.startswith("http"):
                 full_link = link
             elif link.startswith("/"):
@@ -135,7 +99,6 @@ def scrape_listings():
             else:
                 full_link = BASE_URL + "/" + link
 
-            # Imagem
             img_tag = card.select_one("img.img-responsive.lazy")
             img_url = ""
             if img_tag:
@@ -145,7 +108,6 @@ def scrape_listings():
                 elif img_url.startswith("/"):
                     img_url = BASE_URL + img_url
 
-            # Detalhes da página individual
             details = get_vehicle_details(full_link)
 
             vehicle = {
@@ -163,10 +125,7 @@ def scrape_listings():
             }
 
             vehicles.append(vehicle)
-            print(
-                f"✔ {name} | R$ {details['price']} | {details['km']} km | "
-                f"{details['year']} | Cor: {details['color']}"
-            )
+            print(f"✔ {name} | R$ {details['price']} | {details['km']} km | {details['year']} | Cor: {details['color']}")
 
         except Exception as e:
             print(f"[ERRO card] {e}")
@@ -175,7 +134,6 @@ def scrape_listings():
 
 if __name__ == "__main__":
     data = scrape_listings()
-
     output_dir = os.path.join(os.getenv("GITHUB_WORKSPACE", "."), "data")
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, "estoque_eurocar.json")
