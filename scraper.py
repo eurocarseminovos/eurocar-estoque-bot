@@ -29,17 +29,17 @@ def get_vehicle_details(url):
     try:
         print(f"   ➜ Detalhes: {url}")
         resp = requests.get(url, headers=HEADERS, timeout=20)
+        print(f"   ↳ status detalhes: {resp.status_code}")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "html.parser")
 
         # -------- PREÇO --------
-        # tenta pegar onde costuma estar
         price_text = ""
         price_tag = soup.select_one("h3.preco-indigo") or soup.find("h3", class_=re.compile("preco", re.I))
         if price_tag:
             price_text = price_tag.get_text(" ", strip=True)
+
         if not price_text:
-            # fallback: procurar padrão R$ no texto geral
             full_text = soup.get_text(" ", strip=True)
             m_price = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
             if m_price:
@@ -55,21 +55,17 @@ def get_vehicle_details(url):
         # -------- FICHA TÉCNICA --------
         ficha_div = soup.find(string=re.compile("FICHA TÉCNICA", re.I))
         if ficha_div and ficha_div.parent:
-            # pega o container onde está a ficha
             ficha_container = ficha_div.parent
-            # sobe um pouco, porque às vezes o título está num h3 e o conteúdo em div irmão
             for _ in range(3):
                 if ficha_container.parent:
                     ficha_container = ficha_container.parent
             ficha_text = ficha_container.get_text("\n", strip=True)
         else:
-            # fallback: texto da página inteira
             ficha_text = soup.get_text("\n", strip=True)
 
         ficha_text = ficha_text.replace("\r", "")
 
         def search_after(label):
-            # ex: label = "Ano"
             pattern = rf"{label}\s*:\s*(.+)"
             m = re.search(pattern, ficha_text, flags=re.IGNORECASE)
             return clean_text(m.group(1)) if m else ""
@@ -77,7 +73,7 @@ def get_vehicle_details(url):
         # Ano
         details["year"] = search_after("Ano")
 
-        # KM – pega "39.000" ou "39000"
+        # KM
         km_raw = search_after("KM")
         if km_raw:
             m_km = re.search(r"([\d\.]+)", km_raw)
@@ -121,16 +117,23 @@ def scrape_listings():
 
     for card in cards:
         try:
-            # Nome e link
+            # Nome e link bruto vindo da listagem
             name_tag = card.select_one("a.big-inf2")
             if not name_tag:
                 continue
+
             name = clean_text(name_tag.get_text())
             link = name_tag.get("href")
             if not link:
                 continue
-            if not link.startswith("http"):
-                link = BASE_URL + link.lstrip("/")
+
+            # MONTA O LINK CORRETO
+            if link.startswith("http"):
+                full_link = link
+            elif link.startswith("/"):
+                full_link = BASE_URL + link
+            else:
+                full_link = BASE_URL + "/" + link
 
             # Imagem
             img_tag = card.select_one("img.img-responsive.lazy")
@@ -142,8 +145,8 @@ def scrape_listings():
                 elif img_url.startswith("/"):
                     img_url = BASE_URL + img_url
 
-            # Detalhes na página individual
-            details = get_vehicle_details(link)
+            # Detalhes da página individual
+            details = get_vehicle_details(full_link)
 
             vehicle = {
                 "name": name,
@@ -155,7 +158,7 @@ def scrape_listings():
                 "fuel": details["fuel"],
                 "doors": details["doors"],
                 "options": details["options"],
-                "link_details": link,
+                "link_details": full_link,
                 "main_image_url": img_url
             }
 
