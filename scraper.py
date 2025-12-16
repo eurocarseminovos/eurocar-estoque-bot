@@ -14,14 +14,6 @@ HEADERS = {
 def clean_text(text):
     return re.sub(r"\s+", " ", text or "").strip()
 
-def extract_field(text, label, digits_only=False):
-    pattern = rf"{label}\s*[:\-]?\s*(.+)"
-    match = re.search(pattern, text, re.IGNORECASE)
-    if match:
-        value = clean_text(match.group(1))
-        return re.sub(r"[^\d]", "", value) if digits_only else value
-    return ""
-
 def get_vehicle_details(url):
     details = {
         "price": "0.00",
@@ -40,20 +32,29 @@ def get_vehicle_details(url):
         print(f"   ↳ status detalhes: {resp.status_code}")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "html.parser")
-        full_text = soup.get_text("\n", strip=True)
 
         # Preço
-        price_match = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
-        if price_match:
-            details["price"] = price_match.group(1).replace(".", "").replace(",", ".")
+        price_tag = soup.select_one("h3.preco-indigo span#valor_promo")
+        if price_tag:
+            price_text = price_tag.get_text(strip=True)
+            details["price"] = re.sub(r"[^\d,]", "", price_text).replace(",", ".")
 
-        # Ficha Técnica
-        details["year"] = extract_field(full_text, "Ano")
-        details["km"] = extract_field(full_text, "KM", digits_only=True)
-        details["color"] = extract_field(full_text, "Cor")
-        details["transmission"] = extract_field(full_text, "Câmbio")
-        details["fuel"] = extract_field(full_text, "Combustível")
-        details["doors"] = extract_field(full_text, "Portas", digits_only=True)
+        # Ficha Técnica estruturada
+        for div in soup.select("div.col-md-4"):
+            text = div.get_text(strip=True)
+            if "Ano:" in text:
+                details["year"] = text.split("Ano:")[-1].strip()
+            elif "KM:" in text:
+                km_raw = text.split("KM:")[-1].strip()
+                details["km"] = re.sub(r"[^\d]", "", km_raw)
+            elif "Cor:" in text:
+                details["color"] = text.split("Cor:")[-1].strip()
+            elif "Câmbio:" in text:
+                details["transmission"] = text.split("Câmbio:")[-1].strip()
+            elif "Combustível:" in text:
+                details["fuel"] = text.split("Combustível:")[-1].strip()
+            elif "Portas:" in text:
+                details["doors"] = re.sub(r"[^\d]", "", text.split("Portas:")[-1])
 
         # Opcionais
         for ul in soup.select("ul.coluna"):
@@ -62,7 +63,6 @@ def get_vehicle_details(url):
                 if opt:
                     details["options"].append(opt)
 
-        # Log por campo
         print(f"      ↳ Ano: {details['year']}, KM: {details['km']}, Cor: {details['color']}, Câmbio: {details['transmission']}, Combustível: {details['fuel']}, Portas: {details['doors']}")
 
     except Exception as e:
