@@ -24,22 +24,31 @@ def scrape_listings():
 
     for card in cards:
         try:
+            # Nome e link
             name_tag = card.select_one("a.big-inf2")
             name = name_tag.get_text(strip=True) if name_tag else "Veículo sem nome"
             link = name_tag.get("href") if name_tag else ""
             if link and not link.startswith("http"):
                 link = BASE_URL + link
 
+            # Imagem
             image_tag = card.select_one("img.img-responsive.lazy")
             image_url = image_tag.get("src") if image_tag else ""
+            if image_url.startswith("/"):
+                image_url = BASE_URL + image_url
+            elif image_url.startswith("//"):
+                image_url = "https:" + image_url
 
+            # Preço
             price_tag = card.select_one("span#valor_promo")
             price = price_tag.get_text(strip=True) if price_tag else "0"
             price = re.sub(r"[^\d,]", "", price).replace(",", ".")
 
+            # KM
             km_tag = card.select_one("span.text-none.grey-text")
-            km = km_tag.get_text(strip=True).replace(".", "") if km_tag else ""
+            km = re.sub(r"[^\d]", "", km_tag.get_text(strip=True)) if km_tag else ""
 
+            # Ano
             year_match = re.search(r"\d{4}/\d{4}|\d{4}", name)
             year = year_match.group(0) if year_match else ""
 
@@ -52,7 +61,7 @@ def scrape_listings():
                 "year": year
             })
 
-            print(f"Adicionado: {name} - R$ {price}")
+            print(f"Adicionado: {name} - R$ {price} - {km} km - Ano: {year}")
 
         except Exception as e:
             print(f"Erro ao processar card: {e}")
