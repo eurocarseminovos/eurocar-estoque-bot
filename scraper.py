@@ -13,6 +13,7 @@ HEADERS = {
 
 def get_vehicle_details(url):
     details = {
+        "price": "0.00",
         "year": "",
         "km": "",
         "color": "",
@@ -27,44 +28,39 @@ def get_vehicle_details(url):
         response.raise_for_status()
         soup = BeautifulSoup(response.content, "html.parser")
 
+        # Preço
+        price_tag = soup.select_one("h3.preco-indigo span#valor_promo")
+        if price_tag:
+            price_text = price_tag.get_text(strip=True)
+            details["price"] = re.sub(r"[^\d,]", "", price_text).replace(",", ".")
+
         # Ficha Técnica
         ficha = soup.find("div", class_="ficha-tecnica")
         if ficha:
-            text = ficha.get_text(separator="\n", strip=True)
-            for line in text.split("\n"):
-                if "Ano" in line:
-                    details["year"] = line.split(":")[-1].strip()
-                elif "KM" in line:
-                    details["km"] = re.sub(r"[^\d]", "", line)
-                elif "Câmbio" in line:
-                    details["transmission"] = line.split(":")[-1].strip()
-                elif "Combustível" in line:
-                    details["fuel"] = line.split(":")[-1].strip()
-                elif "Cor" in line:
-                    details["color"] = line.split(":")[-1].strip()
-                elif "Portas" in line:
-                    details["doors"] = line.split(":")[-1].strip()
+            for item in ficha.find_all("div", class_="col-md-4"):
+                text = item.get_text(strip=True)
+                if "Ano" in text:
+                    details["year"] = text.split(":")[-1].strip()
+                elif "KM" in text:
+                    details["km"] = re.sub(r"[^\d]", "", text)
+                elif "Câmbio" in text:
+                    details["transmission"] = text.split(":")[-1].strip()
+                elif "Combustível" in text:
+                    details["fuel"] = text.split(":")[-1].strip()
+                elif "Cor" in text:
+                    details["color"] = text.split(":")[-1].strip()
+                elif "Portas" in text:
+                    details["doors"] = text.split(":")[-1].strip()
 
         # Opcionais
-        opc_section = soup.find("div", class_="opcionais")
-        if opc_section:
-            for li in opc_section.find_all("li"):
+        for ul in soup.select("ul.coluna"):
+            for li in ul.select("li.linha span"):
                 opt = li.get_text(strip=True)
                 if opt:
                     details["options"].append(opt)
 
-        # Preço
-        price_tag = soup.find("h3", class_="preco-indigo")
-        if price_tag:
-            price_text = price_tag.get_text(strip=True)
-            price = re.sub(r"[^\d,]", "", price_text).replace(",", ".")
-            details["price"] = price
-        else:
-            details["price"] = "0.00"
-
     except Exception as e:
-        print(f"Erro ao acessar detalhes de {url}: {e}")
-        details["price"] = "0.00"
+        print(f"Erro ao acessar {url}: {e}")
 
     return details
 
