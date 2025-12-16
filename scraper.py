@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import os
 import re
+import os
 
 BASE_URL = "https://eurocarveiculos.com"
 LISTING_URL = f"{BASE_URL}/multipla"
@@ -10,6 +10,63 @@ LISTING_URL = f"{BASE_URL}/multipla"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
+
+def get_vehicle_details(url):
+    details = {
+        "year": "",
+        "km": "",
+        "color": "",
+        "transmission": "",
+        "fuel": "",
+        "doors": "",
+        "options": []
+    }
+
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # Ficha Técnica
+        ficha = soup.find("div", class_="ficha-tecnica")
+        if ficha:
+            text = ficha.get_text(separator="\n", strip=True)
+            for line in text.split("\n"):
+                if "Ano" in line:
+                    details["year"] = line.split(":")[-1].strip()
+                elif "KM" in line:
+                    details["km"] = re.sub(r"[^\d]", "", line)
+                elif "Câmbio" in line:
+                    details["transmission"] = line.split(":")[-1].strip()
+                elif "Combustível" in line:
+                    details["fuel"] = line.split(":")[-1].strip()
+                elif "Cor" in line:
+                    details["color"] = line.split(":")[-1].strip()
+                elif "Portas" in line:
+                    details["doors"] = line.split(":")[-1].strip()
+
+        # Opcionais
+        opc_section = soup.find("div", class_="opcionais")
+        if opc_section:
+            for li in opc_section.find_all("li"):
+                opt = li.get_text(strip=True)
+                if opt:
+                    details["options"].append(opt)
+
+        # Preço
+        price_tag = soup.find("h3", class_="preco-indigo")
+        if price_tag:
+            price_text = price_tag.get_text(strip=True)
+            price = re.sub(r"[^\d,]", "", price_text).replace(",", ".")
+            details["price"] = price
+        else:
+            details["price"] = "0.00"
+
+    except Exception as e:
+        print(f"Erro ao acessar detalhes de {url}: {e}")
+        details["price"] = "0.00"
+
+    return details
 
 def scrape_listings():
     print(f"Acessando: {LISTING_URL}")
@@ -24,44 +81,37 @@ def scrape_listings():
 
     for card in cards:
         try:
-            # Nome e link
             name_tag = card.select_one("a.big-inf2")
-            name = name_tag.get_text(strip=True) if name_tag else "Veículo sem nome"
-            link = name_tag.get("href") if name_tag else ""
-            if link and not link.startswith("http"):
+            name = name_tag.get_text(strip=True)
+            link = name_tag.get("href")
+            if not link.startswith("http"):
                 link = BASE_URL + link
 
-            # Imagem
-            image_tag = card.select_one("img.img-responsive.lazy")
-            image_url = image_tag.get("src") if image_tag else ""
-            if image_url.startswith("/"):
-                image_url = BASE_URL + image_url
-            elif image_url.startswith("//"):
-                image_url = "https:" + image_url
+            img_tag = card.select_one("img.img-responsive.lazy")
+            img_url = img_tag.get("src") or img_tag.get("data-src")
+            if img_url.startswith("/"):
+                img_url = BASE_URL + img_url
+            elif img_url.startswith("//"):
+                img_url = "https:" + img_url
 
-            # Preço
-            price_tag = card.select_one("span#valor_promo")
-            price = price_tag.get_text(strip=True) if price_tag else "0"
-            price = re.sub(r"[^\d,]", "", price).replace(",", ".")
+            details = get_vehicle_details(link)
 
-            # KM
-            km_tag = card.select_one("span.text-none.grey-text")
-            km = re.sub(r"[^\d]", "", km_tag.get_text(strip=True)) if km_tag else ""
-
-            # Ano
-            year_match = re.search(r"\d{4}/\d{4}|\d{4}", name)
-            year = year_match.group(0) if year_match else ""
-
-            vehicles.append({
+            vehicle = {
                 "name": name,
-                "link": link,
-                "image": image_url,
-                "price": price,
-                "km": km,
-                "year": year
-            })
+                "price": details["price"],
+                "year": details["year"],
+                "km": details["km"],
+                "color": details["color"],
+                "transmission": details["transmission"],
+                "fuel": details["fuel"],
+                "doors": details["doors"],
+                "options": details["options"],
+                "link_details": link,
+                "main_image_url": img_url
+            }
 
-            print(f"Adicionado: {name} - R$ {price} - {km} km - Ano: {year}")
+            vehicles.append(vehicle)
+            print(f"✔ {name} | R$ {details['price']} | {details['km']} km | {details['year']} | Cor: {details['color']}")
 
         except Exception as e:
             print(f"Erro ao processar card: {e}")
@@ -75,6 +125,6 @@ if __name__ == "__main__":
     output_path = os.path.join(output_dir, "estoque_eurocar.json")
 
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
     print(f"Estoque salvo em {output_path}")
