@@ -493,33 +493,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "VOLKSWAGEN VIRTUS 1.6 MSI AUTOMATICO",
-        "price": "73900.00",
-        "year": "2018/2019",
-        "km": "115000",
-        "color": "Cinza",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Automático",
-            "Direçăo Elétrica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Automatico/Volkswagen-Virtus-16-Msi-Automatico-2019-Londrina-Parana-7492624.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
         "price": "62900.00",
         "year": "2018/2019",
@@ -540,30 +513,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/10-Confort-Plus-12v-Flex-4p-Manual/Hyundai-Hb20s-10-Confort-Plus-12v-Flex-4p-Manual-2019-Londrina-Parana-7143689.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "RENAULT DUSTER DYN16 SCE",
-        "price": "66900.00",
-        "year": "2017/2018",
-        "km": "2018",
-        "color": "Marrom",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Airbag",
-            "Alarme",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Rodas De Liga Leve",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Dyn16-Sce/Renault-Duster-Dyn16-Sce-2018-Londrina-Parana-7536433.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -594,6 +543,30 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-20-Flex-16v-Aut/Jeep-Compass-Longitude-20-Flex-16v-Aut-2018-Londrina-Parana-7541337.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "RENAULT DUSTER DYN16 SCE",
+        "price": "66900.00",
+        "year": "2017/2018",
+        "km": "114000",
+        "color": "Marrom",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Airbag",
+            "Alarme",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Limpador Traseiro",
+            "Rodas De Liga Leve",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Dyn16-Sce/Renault-Duster-Dyn16-Sce-2018-Londrina-Parana-7536433.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
