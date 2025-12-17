@@ -22,29 +22,80 @@ COLOR_WORDS = [
 def clean_text(text: str) -> str:
     return re.sub(r"\s+", " ", text or "").strip()
 
-def extract_number(text: str) -> str:
-    match = re.search(r"([\d\.]+)", text or "")
-    return match.group(1).replace(".", "") if match else ""
+def extract_price(full_text: str) -> str:
+    m = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
+    if not m:
+        return "0.00"
+    valor = m.group(1).replace(".", "").replace(",", ".")
+    return valor
 
-def extract_from_fulltext(full_text: str, label: str) -> str:
-    """Pega linha que contém o rótulo e devolve o que vem depois dele."""
-    lines = full_text.split("\n")
-    for line in lines:
-        if label.lower() in line.lower():
-            # Ex: 'Ano: 2022/2023'
-            parts = re.split(label + r"\s*[:\-]?", line, flags=re.IGNORECASE)
-            if len(parts) > 1:
-                return clean_text(parts[1])
-    return ""
+def extract_year(full_text: str) -> str:
+    # Pega padrões tipo 2022/2023 ou 2019/2019
+    m = re.search(r"Ano[^0-9]*(\d{4}\s*/\s*\d{4})", full_text, re.IGNORECASE)
+    if m:
+        return clean_text(m.group(1))
+    # fallback para só um ano (menos comum)
+    m = re.search(r"Ano[^0-9]*(\d{4})", full_text, re.IGNORECASE)
+    return clean_text(m.group(1)) if m else ""
 
-def extract_color_from_text(candidate: str) -> str:
-    cand_lower = candidate.lower()
+def extract_km(full_text: str) -> str:
+    # padrões tipo "39.000 KM" ou "39000 KM"
+    m = re.search(r"(\d{1,3}\.\d{3}|\d{4,7})\s*KM", full_text, re.IGNORECASE)
+    if not m:
+        return ""
+    return m.group(1).replace(".", "")
+
+def extract_color(full_text: str) -> str:
+    # tenta pegar uma palavra de cor logo depois de "Cor"
+    m = re.search(r"Cor[^A-Za-zÀ-ÿ]*([A-Za-zÀ-ÿ]+)", full_text, re.IGNORECASE)
+    if m:
+        cand = m.group(1).lower()
+        for cor in COLOR_WORDS:
+            if cor in cand:
+                return cor.capitalize()
+    # fallback: procura qualquer palavra de cor na página
+    lower = full_text.lower()
     for cor in COLOR_WORDS:
-        if cor in cand_lower:
+        if cor in lower:
             return cor.capitalize()
     return ""
 
-def get_vehicle_details(url):
+def extract_transmission(full_text: str) -> str:
+    # Manual / Automático
+    m = re.search(r"Câmbio[^A-Za-zÀ-ÿ]*([A-Za-zÀ-ÿ ]+)", full_text, re.IGNORECASE)
+    if m:
+        val = clean_text(m.group(1))
+        # normalizar
+        if "autom" in val.lower():
+            return "Automático"
+        if "manual" in val.lower():
+            return "Manual"
+        return val
+    # fallback
+    if "câmbio automático" in full_text.lower():
+        return "Automático"
+    if "câmbio manual" in full_text.lower():
+        return "Manual"
+    return ""
+
+def extract_fuel(full_text: str) -> str:
+    txt = full_text.lower()
+    if "flex" in txt:
+        return "FLEX"
+    if "diesel" in txt or "díesel" in txt:
+        return "DIESEL"
+    if "gasolina" in txt:
+        return "GASOLINA"
+    if "etanol" in txt or "álcool" in txt:
+        return "ETANOL"
+    m = re.search(r"Combustível[^A-Za-zÀ-ÿ]*([A-Za-zÀ-ÿ ]+)", full_text, re.IGNORECASE)
+    return clean_text(m.group(1)).upper() if m else ""
+
+def extract_doors(full_text: str) -> str:
+    m = re.search(r"Portas[^0-9]*(\d)", full_text, re.IGNORECASE)
+    return m.group(1) if m else ""
+
+def get_vehicle_details(url: str) -> dict:
     details = {
         "price": "0.00",
         "year": "",
@@ -62,89 +113,20 @@ def get_vehicle_details(url):
         print(f"   ↳ status detalhes: {resp.status_code}")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "html.parser")
-        full_text = soup.get_text("\n", strip=True)
 
-        # -------- PREÇO --------
-        price_tag = soup.select_one("h3.preco-indigo span#valor_promo")
-        if price_tag:
-            price_text = price_tag.get_text(strip=True)
-            details["price"] = re.sub(r"[^\d,]", "", price_text).replace(",", ".")
-        else:
-            price_match = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
-            if price_match:
-                details["price"] = price_match.group(1).replace(".", "").replace(",", ".")
+        # texto total da página, num bloco só
+        full_text = soup.get_text(" ", strip=True)
 
-        # -------- FICHA TÉCNICA VIA HTML (strong/span) --------
-        for bloco in soup.select("div.col-md-4"):
-            strong = bloco.find(["strong", "b"])
-            if not strong:
-                continue
+        # -------- CAMPOS PRINCIPAIS POR REGEX NO TEXTO COMPLETO --------
+        details["price"] = extract_price(full_text)
+        details["year"] = extract_year(full_text)
+        details["km"] = extract_km(full_text)
+        details["color"] = extract_color(full_text)
+        details["transmission"] = extract_transmission(full_text)
+        details["fuel"] = extract_fuel(full_text)
+        details["doors"] = extract_doors(full_text)
 
-            label = clean_text(strong.get_text()).lower()
-
-            # tenta valor em span
-            span = bloco.find("span")
-            if span:
-                value = clean_text(span.get_text())
-            else:
-                # se não tiver span, pega texto do bloco e remove o label
-                bloco_text = clean_text(bloco.get_text(" ", strip=True))
-                value = clean_text(bloco_text.replace(strong.get_text(), ""))
-
-            if "ano" in label and not details["year"]:
-                details["year"] = value
-
-            elif "km" in label and not details["km"]:
-                details["km"] = extract_number(value)
-
-            elif "cor" in label and not details["color"]:
-                cor = extract_color_from_text(value)
-                if cor:
-                    details["color"] = cor
-
-            elif "câmbio" in label and not details["transmission"]:
-                details["transmission"] = value
-
-            elif "combustível" in label and not details["fuel"]:
-                details["fuel"] = value
-
-            elif "portas" in label and not details["doors"]:
-                details["doors"] = extract_number(value)
-
-        # -------- FALLBACK VIA TEXTO COMPLETO --------
-        if not details["year"]:
-            year_candidate = extract_from_fulltext(full_text, "Ano")
-            if year_candidate:
-                details["year"] = year_candidate
-
-        if not details["km"]:
-            km_candidate = extract_from_fulltext(full_text, "KM")
-            if km_candidate:
-                details["km"] = extract_number(km_candidate)
-
-        if not details["color"]:
-            color_candidate = extract_from_fulltext(full_text, "Cor")
-            if color_candidate:
-                cor = extract_color_from_text(color_candidate)
-                if cor:
-                    details["color"] = cor
-
-        if not details["transmission"]:
-            trans_candidate = extract_from_fulltext(full_text, "Câmbio")
-            if trans_candidate:
-                details["transmission"] = clean_text(trans_candidate)
-
-        if not details["fuel"]:
-            fuel_candidate = extract_from_fulltext(full_text, "Combustível")
-            if fuel_candidate:
-                details["fuel"] = clean_text(fuel_candidate)
-
-        if not details["doors"]:
-            doors_candidate = extract_from_fulltext(full_text, "Portas")
-            if doors_candidate:
-                details["doors"] = extract_number(doors_candidate)
-
-        # -------- OPCIONAIS --------
+        # -------- OPCIONAIS (aqui ainda dá pra usar HTML pq funciona bem) --------
         for ul in soup.select("ul.coluna"):
             for li in ul.select("li.linha span"):
                 opt = clean_text(li.get_text())
@@ -152,15 +134,14 @@ def get_vehicle_details(url):
                     details["options"].append(opt)
 
         print(
-            f"      ↳ Ano: {details['year']}, KM: {details['km']}, Cor: {details['color']}, "
-            f"Câmbio: {details['transmission']}, Combustível: {details['fuel']}, Portas: {details['doors']}"
+            f"      ↳ Ano: {details['year']} | KM: {details['km']} | Cor: {details['color']} | "
+            f"Câmbio: {details['transmission']} | Combustível: {details['fuel']} | Portas: {details['doors']}"
         )
 
     except Exception as e:
         print(f"   [ERRO detalhes] {url}: {e}")
 
     return details
-
 
 def scrape_listings():
     print(f"Acessando listagem: {LISTING_URL}")
@@ -227,7 +208,6 @@ def scrape_listings():
             print(f"[ERRO card] {e}")
 
     return vehicles
-
 
 if __name__ == "__main__":
     data = scrape_listings()
