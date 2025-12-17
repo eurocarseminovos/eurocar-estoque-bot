@@ -8,19 +8,11 @@ BASE_URL = "https://eurocarveiculos.com"
 LISTING_URL = f"{BASE_URL}/multipla"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0"
 }
 
 def clean_text(text):
     return re.sub(r"\s+", " ", text or "").strip()
-
-def extract_field_regex(text, label, digits_only=False):
-    pattern = rf"{label}\s*[:\-]?\s*(.+)"
-    match = re.search(pattern, text, re.IGNORECASE)
-    if match:
-        value = clean_text(match.group(1))
-        return re.sub(r"[^\d]", "", value) if digits_only else value
-    return ""
 
 def get_vehicle_details(url):
     details = {
@@ -40,76 +32,40 @@ def get_vehicle_details(url):
         print(f"   ↳ status detalhes: {resp.status_code}")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "html.parser")
-        full_text = soup.get_text("\n", strip=True)
 
-        # -------- PREÇO --------
+        # Preço
         price_tag = soup.select_one("h3.preco-indigo span#valor_promo")
         if price_tag:
             price_text = price_tag.get_text(strip=True)
             details["price"] = re.sub(r"[^\d,]", "", price_text).replace(",", ".")
         else:
-            price_match = re.search(r"R\$\s*([\d\.]+,\d{2})", full_text)
+            price_match = re.search(r"R\$\s*([\d\.]+,\d{2})", soup.get_text())
             if price_match:
                 details["price"] = price_match.group(1).replace(".", "").replace(",", ".")
 
-        # -------- FICHA TÉCNICA (HTML estruturado) --------
-        found_fields = set()
+        # Ficha técnica via pares <strong>:<span>
+        for bloco in soup.select("div.col-md-4"):
+            strong = bloco.find("strong")
+            span = bloco.find("span")
+            if not strong or not span:
+                continue
+            label = clean_text(strong.get_text()).lower()
+            value = clean_text(span.get_text())
 
-        for div in soup.select("div.col-md-4"):
-            text = div.get_text(" ", strip=True)
+            if "ano" in label:
+                details["year"] = value
+            elif "km" in label:
+                details["km"] = re.sub(r"[^\d]", "", value)
+            elif "cor" in label:
+                details["color"] = value.capitalize()
+            elif "câmbio" in label:
+                details["transmission"] = value
+            elif "combustível" in label:
+                details["fuel"] = value
+            elif "portas" in label:
+                details["doors"] = re.sub(r"[^\d]", "", value)
 
-            # ANO
-            if "Ano:" in text:
-                details["year"] = text.split("Ano:")[-1].strip()
-                found_fields.add("year")
-
-            # KM (corrigido)
-            elif "KM:" in text:
-                km_raw = text.split("KM:")[-1].strip()
-                km_match = re.search(r"([\d\.]+)", km_raw)
-                if km_match:
-                    details["km"] = km_match.group(1).replace(".", "")
-                found_fields.add("km")
-
-            # COR (corrigido)
-            elif "Cor:" in text:
-                color_raw = text.split("Cor:")[-1].strip()
-                color_match = re.search(r"\b([A-Za-zÀ-ÿ]+)\b", color_raw)
-                if color_match:
-                    details["color"] = color_match.group(1).capitalize()
-                found_fields.add("color")
-
-            # CÂMBIO
-            elif "Câmbio:" in text:
-                details["transmission"] = text.split("Câmbio:")[-1].strip()
-                found_fields.add("transmission")
-
-            # COMBUSTÍVEL
-            elif "Combustível:" in text:
-                details["fuel"] = text.split("Combustível:")[-1].strip()
-                found_fields.add("fuel")
-
-            # PORTAS
-            elif "Portas:" in text:
-                doors_raw = text.split("Portas:")[-1].strip()
-                details["doors"] = re.sub(r"[^\d]", "", doors_raw)
-                found_fields.add("doors")
-
-        # -------- FALLBACK via REGEX --------
-        if "year" not in found_fields:
-            details["year"] = extract_field_regex(full_text, "Ano")
-        if "km" not in found_fields:
-            details["km"] = extract_field_regex(full_text, "KM", digits_only=True)
-        if "color" not in found_fields:
-            details["color"] = extract_field_regex(full_text, "Cor")
-        if "transmission" not in found_fields:
-            details["transmission"] = extract_field_regex(full_text, "Câmbio")
-        if "fuel" not in found_fields:
-            details["fuel"] = extract_field_regex(full_text, "Combustível")
-        if "doors" not in found_fields:
-            details["doors"] = extract_field_regex(full_text, "Portas", digits_only=True)
-
-        # -------- OPCIONAIS --------
+        # Opcionais
         for ul in soup.select("ul.coluna"):
             for li in ul.select("li.linha span"):
                 opt = clean_text(li.get_text())
@@ -125,7 +81,6 @@ def get_vehicle_details(url):
         print(f"   [ERRO detalhes] {url}: {e}")
 
     return details
-
 
 def scrape_listings():
     print(f"Acessando listagem: {LISTING_URL}")
@@ -149,7 +104,6 @@ def scrape_listings():
             if not link:
                 continue
 
-            # Corrigir link
             if link.startswith("http"):
                 full_link = link
             elif link.startswith("/"):
@@ -157,7 +111,6 @@ def scrape_listings():
             else:
                 full_link = BASE_URL + "/" + link
 
-            # Imagem
             img_tag = card.select_one("img.img-responsive.lazy")
             img_url = ""
             if img_tag:
@@ -167,7 +120,6 @@ def scrape_listings():
                 elif img_url.startswith("/"):
                     img_url = BASE_URL + img_url
 
-            # Detalhes
             details = get_vehicle_details(full_link)
 
             vehicle = {
@@ -195,7 +147,6 @@ def scrape_listings():
             print(f"[ERRO card] {e}")
 
     return vehicles
-
 
 if __name__ == "__main__":
     data = scrape_listings()
