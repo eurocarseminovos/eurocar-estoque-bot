@@ -42,7 +42,7 @@ def get_vehicle_details(url):
         soup = BeautifulSoup(resp.content, "html.parser")
         full_text = soup.get_text("\n", strip=True)
 
-        # Preço
+        # -------- PREÇO --------
         price_tag = soup.select_one("h3.preco-indigo span#valor_promo")
         if price_tag:
             price_text = price_tag.get_text(strip=True)
@@ -52,31 +52,50 @@ def get_vehicle_details(url):
             if price_match:
                 details["price"] = price_match.group(1).replace(".", "").replace(",", ".")
 
-        # Ficha Técnica via estrutura
+        # -------- FICHA TÉCNICA (HTML estruturado) --------
         found_fields = set()
+
         for div in soup.select("div.col-md-4"):
-            text = div.get_text(strip=True)
+            text = div.get_text(" ", strip=True)
+
+            # ANO
             if "Ano:" in text:
                 details["year"] = text.split("Ano:")[-1].strip()
                 found_fields.add("year")
+
+            # KM (corrigido)
             elif "KM:" in text:
                 km_raw = text.split("KM:")[-1].strip()
-                details["km"] = re.sub(r"[^\d]", "", km_raw)
+                km_match = re.search(r"([\d\.]+)", km_raw)
+                if km_match:
+                    details["km"] = km_match.group(1).replace(".", "")
                 found_fields.add("km")
+
+            # COR (corrigido)
             elif "Cor:" in text:
-                details["color"] = text.split("Cor:")[-1].strip()
+                color_raw = text.split("Cor:")[-1].strip()
+                color_match = re.search(r"\b([A-Za-zÀ-ÿ]+)\b", color_raw)
+                if color_match:
+                    details["color"] = color_match.group(1).capitalize()
                 found_fields.add("color")
+
+            # CÂMBIO
             elif "Câmbio:" in text:
                 details["transmission"] = text.split("Câmbio:")[-1].strip()
                 found_fields.add("transmission")
+
+            # COMBUSTÍVEL
             elif "Combustível:" in text:
                 details["fuel"] = text.split("Combustível:")[-1].strip()
                 found_fields.add("fuel")
+
+            # PORTAS
             elif "Portas:" in text:
-                details["doors"] = re.sub(r"[^\d]", "", text.split("Portas:")[-1])
+                doors_raw = text.split("Portas:")[-1].strip()
+                details["doors"] = re.sub(r"[^\d]", "", doors_raw)
                 found_fields.add("doors")
 
-        # Fallback via regex
+        # -------- FALLBACK via REGEX --------
         if "year" not in found_fields:
             details["year"] = extract_field_regex(full_text, "Ano")
         if "km" not in found_fields:
@@ -90,19 +109,23 @@ def get_vehicle_details(url):
         if "doors" not in found_fields:
             details["doors"] = extract_field_regex(full_text, "Portas", digits_only=True)
 
-        # Opcionais
+        # -------- OPCIONAIS --------
         for ul in soup.select("ul.coluna"):
             for li in ul.select("li.linha span"):
                 opt = clean_text(li.get_text())
                 if opt:
                     details["options"].append(opt)
 
-        print(f"      ↳ Ano: {details['year']}, KM: {details['km']}, Cor: {details['color']}, Câmbio: {details['transmission']}, Combustível: {details['fuel']}, Portas: {details['doors']}")
+        print(
+            f"      ↳ Ano: {details['year']}, KM: {details['km']}, Cor: {details['color']}, "
+            f"Câmbio: {details['transmission']}, Combustível: {details['fuel']}, Portas: {details['doors']}"
+        )
 
     except Exception as e:
         print(f"   [ERRO detalhes] {url}: {e}")
 
     return details
+
 
 def scrape_listings():
     print(f"Acessando listagem: {LISTING_URL}")
@@ -126,6 +149,7 @@ def scrape_listings():
             if not link:
                 continue
 
+            # Corrigir link
             if link.startswith("http"):
                 full_link = link
             elif link.startswith("/"):
@@ -133,6 +157,7 @@ def scrape_listings():
             else:
                 full_link = BASE_URL + "/" + link
 
+            # Imagem
             img_tag = card.select_one("img.img-responsive.lazy")
             img_url = ""
             if img_tag:
@@ -142,6 +167,7 @@ def scrape_listings():
                 elif img_url.startswith("/"):
                     img_url = BASE_URL + img_url
 
+            # Detalhes
             details = get_vehicle_details(full_link)
 
             vehicle = {
@@ -159,15 +185,21 @@ def scrape_listings():
             }
 
             vehicles.append(vehicle)
-            print(f"✔ {name} | R$ {details['price']} | {details['km']} km | {details['year']} | Cor: {details['color']}")
+
+            print(
+                f"✔ {name} | R$ {details['price']} | {details['km']} km | "
+                f"{details['year']} | Cor: {details['color']}"
+            )
 
         except Exception as e:
             print(f"[ERRO card] {e}")
 
     return vehicles
 
+
 if __name__ == "__main__":
     data = scrape_listings()
+
     output_dir = os.path.join(os.getenv("GITHUB_WORKSPACE", "."), "data")
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, "estoque_eurocar.json")
