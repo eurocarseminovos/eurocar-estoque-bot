@@ -762,6 +762,38 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "NISSAN KICKS SL CVT 1.6 FLEX",
+        "price": "83900.00",
+        "year": "2016/2017",
+        "km": "85000",
+        "color": "Cinza",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos",
+            "Câmera 360 Graus"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt-16-Flex/Nissan-Kicks-Sl-Cvt-16-Flex-2017-Londrina-Parana-7664635.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "RENAULT DUSTER OROCH 2.0 16V FLEX DYNAMIQUE 4P AUTOMATICO",
         "price": "72900.00",
         "year": "2016/2017",
@@ -843,19 +875,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "TOYOTA ETIOS SD X",
-        "price": "43900.00",
-        "year": "2015/2015",
-        "km": "2015",
-        "color": "Preto",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-X/Toyota-Etios-Sd-X-2015-Londrina-Parana-7633056.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "HONDA CITY DX MT",
         "price": "61900.00",
         "year": "2014/2015",
@@ -906,6 +925,19 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Ltz-18-16v-Flex-4x2-Aut/Chevrolet-Tracker-Ltz-18-16v-Flex-4x2-Aut-2015-Londrina-Parana-7481364.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "TOYOTA ETIOS SD X",
+        "price": "43900.00",
+        "year": "2015/2015",
+        "km": "2015",
+        "color": "Preto",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-X/Toyota-Etios-Sd-X-2015-Londrina-Parana-7633056.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
