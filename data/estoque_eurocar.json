@@ -524,7 +524,7 @@
         "year": "2019/2019",
         "km": "2019",
         "color": "Branco",
-        "transmission": "Manual",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -532,12 +532,12 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "C‚mbio Manual",
+            "DireÁ„o Hidr·ulica",
+            "Retrovisor ElÈtrico",
+            "Som MultimÌdia",
+            "Trava ElÈtrica",
+            "Vidros ElÈtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Lt/Chevrolet-Onix-10mt-Lt-2019-Londrina-Parana-7648117.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -843,6 +843,19 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "TOYOTA ETIOS SD X",
+        "price": "43900.00",
+        "year": "2015/2015",
+        "km": "2015",
+        "color": "Preto",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-X/Toyota-Etios-Sd-X-2015-Londrina-Parana-7633056.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "HONDA CITY DX MT",
         "price": "61900.00",
         "year": "2014/2015",
@@ -863,19 +876,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Dx-Mt/Honda-City-Dx-Mt-2015-Londrina-Parana-7546803.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "TOYOTA ETIOS SD X",
-        "price": "43900.00",
-        "year": "2015/2015",
-        "km": "2015",
-        "color": "Preto",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Sd-X/Toyota-Etios-Sd-X-2015-Londrina-Parana-7633056.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -927,28 +927,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Mt-Lt/Chevrolet-Onix-10-Mt-Lt-2014-Londrina-Parana-7657529.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "VOLKSWAGEN SAVEIRO 1.6 CS",
-        "price": "48500.00",
-        "year": "2013/2014",
-        "km": "159000",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Ar-condicionado",
-            "Ar Quente",
-            "Bancos De Couro",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Rodas De Liga Leve",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/16-Cs/Volkswagen-Saveiro-16-Cs-2014-Londrina-Parana-7433208.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
