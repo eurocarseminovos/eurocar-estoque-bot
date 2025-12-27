@@ -107,28 +107,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "62900.00",
-        "year": "2021/2022",
-        "km": "55000",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-7541447.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "JEEP COMPASS LONG TF",
         "price": "129900.00",
         "year": "2021/2022",
@@ -183,50 +161,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2021-Londrina-Parana-7492463.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "62900.00",
-        "year": "2020/2021",
-        "km": "2021",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7541481.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
-        "price": "62900.00",
-        "year": "2020/2021",
-        "km": "2021",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "2",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7543921.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -285,11 +219,33 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "RENAULT DUSTER EXPRESSION 1.6 16V",
-        "price": "69900.00",
-        "year": "2019/2020",
-        "km": "2020",
-        "color": "Preto",
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "59900.00",
+        "year": "2020/2021",
+        "km": "55000",
+        "color": "Branco",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "2",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "CÔmbio Manual",
+            "DireþÒo Hidrßulica",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7543921.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
+        "price": "59900.00",
+        "year": "2020/2021",
+        "km": "56000",
+        "color": "Branco",
         "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
@@ -300,11 +256,33 @@
             "Ar Quente",
             "CÔmbio Manual",
             "DireþÒo Hidrßulica",
-            "Retrovisor ElÚtrico",
-            "Rodas De Liga Leve",
-            "Som MultimÝdia",
             "Trava ElÚtrica",
             "Vidros ElÚtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7541481.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "RENAULT DUSTER EXPRESSION 1.6 16V",
+        "price": "69900.00",
+        "year": "2019/2020",
+        "km": "2020",
+        "color": "Preto",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Expression-16-16v/Renault-Duster-Expression-16-16v-2020-Londrina-Parana-7654845.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -524,7 +502,7 @@
         "year": "2019/2019",
         "km": "2019",
         "color": "Branco",
-        "transmission": "",
+        "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -532,12 +510,12 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "C‚mbio Manual",
-            "DireÁ„o Hidr·ulica",
-            "Retrovisor ElÈtrico",
-            "Som MultimÌdia",
-            "Trava ElÈtrica",
-            "Vidros ElÈtricos"
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Lt/Chevrolet-Onix-10mt-Lt-2019-Londrina-Parana-7648117.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
