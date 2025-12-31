@@ -5,7 +5,7 @@
         "year": "2022/2023",
         "km": "42000",
         "color": "Prata",
-        "transmission": "",
+        "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -13,12 +13,12 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "C‚mbio Manual",
-            "DireÁ„o ElÈtrica",
-            "Retrovisor ElÈtrico",
-            "Som MultimÌdia",
-            "Trava ElÈtrica",
-            "Vidros ElÈtricos"
+            "Câmbio Manual",
+            "Direçăo Elétrica",
+            "Retrovisor Elétrico",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tmt-Lt1/Chevrolet-Onix-Plus-10tmt-Lt1-2023-Londrina-Parana-7541389.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -551,30 +551,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2018-Londrina-Parana-7654872.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "RENAULT DUSTER DYN16 SCE",
-        "price": "66900.00",
-        "year": "2017/2018",
-        "km": "114000",
-        "color": "Marrom",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Airbag",
-            "Alarme",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Rodas De Liga Leve",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Dyn16-Sce/Renault-Duster-Dyn16-Sce-2018-Londrina-Parana-7536433.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
