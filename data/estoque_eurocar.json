@@ -426,32 +426,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET ONIX 1.4MT LT",
-        "price": "60900.00",
-        "year": "2019/2019",
-        "km": "117000",
-        "color": "Vermelho",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Lt/Chevrolet-Onix-14mt-Lt-2019-Londrina-Parana-6747839.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "HYUNDAI HB20S 1.0 CONFORT PLUS 12V FLEX 4P MANUAL",
         "price": "62900.00",
         "year": "2018/2019",
