@@ -164,38 +164,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
-        "price": "109900.00",
-        "year": "2021/2021",
-        "km": "68000",
-        "color": "Preto",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Desembaçador Traseiro",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/T-Cross/Highline-250-Tsi-Aut/Volkswagen-T-Cross-Highline-250-Tsi-Aut-2021-Londrina-Parana-7546877.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "HYUNDAI HB20 10M VISION",
         "price": "62900.00",
         "year": "2020/2021",
@@ -238,6 +206,38 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7541481.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
+        "price": "112900.00",
+        "year": "2021/2021",
+        "km": "68000",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/T-Cross/Highline-250-Tsi-Aut/Volkswagen-T-Cross-Highline-250-Tsi-Aut-2021-Londrina-Parana-7546877.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -318,30 +318,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET S10 ADVANTAGE FD2",
-        "price": "123900.00",
-        "year": "2019/2020",
-        "km": "113000",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "FORD ECOSPORT STM4AT",
         "price": "81900.00",
         "year": "2019/2020",
@@ -370,6 +346,30 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Stm4at/Ford-Ecosport-Stm4at-2020-Londrina-Parana-7575085.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET S10 ADVANTAGE FD2",
+        "price": "123900.00",
+        "year": "2019/2020",
+        "km": "113000",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -454,7 +454,7 @@
         "year": "2019/2019",
         "km": "2019",
         "color": "Branco",
-        "transmission": "Manual",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -462,12 +462,12 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "CÔmbio Manual",
+            "DireþÒo Hidrßulica",
+            "Retrovisor ElÚtrico",
+            "Som MultimÝdia",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Lt/Chevrolet-Onix-10mt-Lt-2019-Londrina-Parana-7648117.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -600,6 +600,19 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14mt-Ltz/Chevrolet-Prisma-14mt-Ltz-2018-Londrina-Parana-7653371.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET ONIX 1.0MT JOYE",
+        "price": "47900.00",
+        "year": "2017/2018",
+        "km": "2018",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Joye/Chevrolet-Onix-10mt-Joye-2018-Londrina-Parana-7673121.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
