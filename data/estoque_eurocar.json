@@ -397,6 +397,35 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "HYUNDAI CRETA 20A SPORT",
+        "price": "92900.00",
+        "year": "2019/2019",
+        "km": "2019",
+        "color": "Prata",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Hidráulica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7648086.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "FIAT TORO VOLCANO AT D4",
         "price": "104900.00",
         "year": "2018/2019",
@@ -493,35 +522,6 @@
             "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20/10m-Comfor/Hyundai-Hb20-10m-Comfor-2019-Londrina-Parana-7648159.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "HYUNDAI CRETA 20A SPORT",
-        "price": "92900.00",
-        "year": "2019/2019",
-        "km": "2019",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Câmbio Automático",
-            "Desembaçador Traseiro",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7648086.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
