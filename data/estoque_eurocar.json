@@ -567,28 +567,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "FIAT STRADA HD WK CC E",
-        "price": "56900.00",
-        "year": "2017/2018",
-        "km": "123000",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "2",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Hd-Wk-Cc-E/Fiat-Strada-Hd-Wk-Cc-E-2018-Londrina-Parana-7157394.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "CHEVROLET PRISMA 1.4MT LTZ",
         "price": "62900.00",
         "year": "2017/2018",
@@ -613,6 +591,28 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/14mt-Ltz/Chevrolet-Prisma-14mt-Ltz-2018-Londrina-Parana-7653371.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FIAT STRADA HD WK CC E",
+        "price": "56900.00",
+        "year": "2017/2018",
+        "km": "123000",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "2",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Strada/Hd-Wk-Cc-E/Fiat-Strada-Hd-Wk-Cc-E-2018-Londrina-Parana-7157394.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
