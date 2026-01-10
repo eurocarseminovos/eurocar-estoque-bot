@@ -965,26 +965,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "FORD FIESTA FLEX",
-        "price": "31900.00",
-        "year": "2012/2012",
-        "km": "61000",
-        "color": "Prata",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Fiesta/Flex/Ford-Fiesta-Flex-2012-Londrina-Parana-7684688.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "TOYOTA COROLLA 2.0 XEI 16V FLEX 4P AUTOMATICO",
         "price": "61900.00",
         "year": "2010/2011",
