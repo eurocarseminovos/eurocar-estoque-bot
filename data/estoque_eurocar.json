@@ -478,6 +478,36 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "VOLKSWAGEN JETTA RL AF",
+        "price": "112900.00",
+        "year": "2018/2019",
+        "km": "106000",
+        "color": "Preto",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Apoio De Braþo",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "CÔmbio Automßtico",
+            "DireþÒo ElÚtrica",
+            "Retrovisor ElÚtrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som MultimÝdia",
+            "Teto Solar",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Jetta/Rl-Af/Volkswagen-Jetta-Rl-Af-2019-Londrina-Parana-7703429.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "HYUNDAI HB20 1.0M COMFOR",
         "price": "56900.00",
         "year": "2018/2019",
