@@ -222,7 +222,7 @@
         "year": "2019/2020",
         "km": "2020",
         "color": "Preto",
-        "transmission": "Manual",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -230,13 +230,13 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
+            "CÔmbio Manual",
+            "DireþÒo Hidrßulica",
+            "Retrovisor ElÚtrico",
             "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "Som MultimÝdia",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Expression-16-16v/Renault-Duster-Expression-16-16v-2020-Londrina-Parana-7654845.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -621,7 +621,7 @@
     },
     {
         "name": "VOLKSWAGEN FOX CL MBV",
-        "price": "55900.00",
+        "price": "56500.00",
         "year": "2017/2018",
         "km": "2018",
         "color": "Prata",
