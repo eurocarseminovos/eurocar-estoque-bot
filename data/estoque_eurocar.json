@@ -721,38 +721,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "NISSAN KICKS SL CVT 1.6 FLEX",
-        "price": "83900.00",
-        "year": "2016/2017",
-        "km": "85000",
-        "color": "Cinza",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Desembaçador Traseiro",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos",
-            "Câmera 360 Graus"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt-16-Flex/Nissan-Kicks-Sl-Cvt-16-Flex-2017-Londrina-Parana-7664635.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "RENAULT DUSTER OROCH 2.0 16V FLEX DYNAMIQUE 4P AUTOMATICO",
         "price": "72900.00",
         "year": "2016/2017",
@@ -835,6 +803,38 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2a/Renault-Duster-20-D-4x2a-2017-Londrina-Parana-7381903.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "NISSAN KICKS SL CVT 1.6 FLEX",
+        "price": "83900.00",
+        "year": "2016/2017",
+        "km": "85000",
+        "color": "Cinza",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos",
+            "Câmera 360 Graus"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt-16-Flex/Nissan-Kicks-Sl-Cvt-16-Flex-2017-Londrina-Parana-7664635.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -979,6 +979,28 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Dx-Mt/Honda-City-Dx-Mt-2015-Londrina-Parana-7546803.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "VOLKSWAGEN GOL 1.0 TL MB S",
+        "price": "40900.00",
+        "year": "2014/2015",
+        "km": "89000",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Gol/10-Tl-Mb-S/Volkswagen-Gol-10-Tl-Mb-S-2015-Londrina-Parana-7726067.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
