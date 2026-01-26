@@ -615,7 +615,7 @@
         "year": "2017/2018",
         "km": "2018",
         "color": "Vermelho",
-        "transmission": "",
+        "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -624,15 +624,15 @@
             "Ar-condicionado",
             "Ar Quente",
             "Bancos De Couro",
-            "CÔmbio Automßtico",
-            "DireþÒo Hidrßulica",
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
             "Limpador Traseiro",
-            "Retrovisor ElÚtrico",
+            "Retrovisor Elétrico",
             "Rodas De Liga Leve",
             "Sensor De Estacionamento",
-            "Som MultimÝdia",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14-At-Ltz-Aut/Chevrolet-Onix-14-At-Ltz-Aut-2018-Londrina-Parana-7695535.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
