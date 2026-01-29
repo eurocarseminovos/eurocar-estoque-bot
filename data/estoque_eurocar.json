@@ -204,31 +204,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "RENAULT DUSTER EXPRESSION 1.6 16V",
-        "price": "69900.00",
-        "year": "2019/2020",
-        "km": "115000",
-        "color": "Preto",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Expression-16-16v/Renault-Duster-Expression-16-16v-2020-Londrina-Parana-7654845.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "FIAT ARGO TREKKING 1.3",
         "price": "69900.00",
         "year": "2019/2020",
@@ -307,6 +282,31 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "RENAULT DUSTER EXPRESSION 1.6 16V",
+        "price": "69900.00",
+        "year": "2019/2020",
+        "km": "115000",
+        "color": "Preto",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Expression-16-16v/Renault-Duster-Expression-16-16v-2020-Londrina-Parana-7654845.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -858,34 +858,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET CRUZE 1.8 LT SPORT6 16V FLEX 4P AUTOMÁTICO",
-        "price": "72900.00",
-        "year": "2015/2016",
-        "km": "114000",
-        "color": "Branco",
-        "transmission": "",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Apoio De Brańo",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Bancos De Couro",
-            "CŌmbio Automßtico",
-            "Desembańador Traseiro",
-            "DireńŃo Hidrßulica",
-            "Limpador Traseiro",
-            "Retrovisor Elķtrico",
-            "Rodas De Liga Leve",
-            "Trava Elķtrica",
-            "Vidros Elķtricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Cruze/18-Lt-Sport6-16v-Flex-4p-Automatico/Chevrolet-Cruze-18-Lt-Sport6-16v-Flex-4p-Automatico-2016-Londrina-Parana-7665305.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "VOLKSWAGEN NOVO FOX TRACK ME",
         "price": "53900.00",
         "year": "2015/2016",
@@ -923,6 +895,34 @@
         "doors": "4",
         "options": [],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Novo/Fox-Tl-Mb/Volkswagen-Novo-Fox-Tl-Mb-2016-Londrina-Parana-7729751.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET CRUZE 1.8 LT SPORT6 16V FLEX 4P AUTOMÁTICO",
+        "price": "72900.00",
+        "year": "2015/2016",
+        "km": "114000",
+        "color": "Branco",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Apoio De Brańo",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "CŌmbio Automßtico",
+            "Desembańador Traseiro",
+            "DireńŃo Hidrßulica",
+            "Limpador Traseiro",
+            "Retrovisor Elķtrico",
+            "Rodas De Liga Leve",
+            "Trava Elķtrica",
+            "Vidros Elķtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Cruze/18-Lt-Sport6-16v-Flex-4p-Automatico/Chevrolet-Cruze-18-Lt-Sport6-16v-Flex-4p-Automatico-2016-Londrina-Parana-7665305.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
