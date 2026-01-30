@@ -727,34 +727,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "RENAULT DUSTER 2.0 D 4X2A",
-        "price": "66900.00",
-        "year": "2016/2017",
-        "km": "113000",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2a/Renault-Duster-20-D-4x2a-2017-Londrina-Parana-7381903.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
         "price": "120900.00",
         "year": "2017/2017",
@@ -1022,26 +994,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/20-Xei-16v-Flex-4p-Automatico/Toyota-Corolla-20-Xei-16v-Flex-4p-Automatico-2011-Londrina-Parana-7642173.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "FORD FIESTA 1.6 MPI CLASS SEDAN 8V FLEX 4P MANUAL",
-        "price": "34900.00",
-        "year": "2010/2011",
-        "km": "139000",
-        "color": "Vermelho",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Fiesta/16-Mpi-Class-Sedan-8v-Flex-4p-Manual/Ford-Fiesta-16-Mpi-Class-Sedan-8v-Flex-4p-Manual-2011-Londrina-Parana-7762121.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
