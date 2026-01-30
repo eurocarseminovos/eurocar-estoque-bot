@@ -204,32 +204,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "FIAT ARGO TREKKING 1.3",
-        "price": "69900.00",
-        "year": "2019/2020",
-        "km": "78000",
-        "color": "Preto",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Elétrica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Argo/Trekking-13/Fiat-Argo-Trekking-13-2020-Londrina-Parana-7217560.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "FORD ECOSPORT STM4AT",
         "price": "81900.00",
         "year": "2019/2020",
@@ -675,6 +649,36 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "NISSAN KICKS SL CVT",
+        "price": "84900.00",
+        "year": "2017/2018",
+        "km": "48000",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Kicks/Sl-Cvt/Nissan-Kicks-Sl-Cvt-2018-Londrina-Parana-7761239.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "NISSAN KICKS SL CVT 1.6 FLEX",
         "price": "83900.00",
         "year": "2016/2017",
@@ -1031,6 +1035,26 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/20-Xei-16v-Flex-4p-Automatico/Toyota-Corolla-20-Xei-16v-Flex-4p-Automatico-2011-Londrina-Parana-7642173.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FORD FIESTA 1.6 MPI CLASS SEDAN 8V FLEX 4P MANUAL",
+        "price": "34900.00",
+        "year": "2010/2011",
+        "km": "139000",
+        "color": "Vermelho",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Fiesta/16-Mpi-Class-Sedan-8v-Flex-4p-Manual/Ford-Fiesta-16-Mpi-Class-Sedan-8v-Flex-4p-Manual-2011-Londrina-Parana-7762121.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
