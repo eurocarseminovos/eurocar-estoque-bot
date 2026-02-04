@@ -746,33 +746,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "VOLKSWAGEN NOVO FOX HL MD",
-        "price": "52900.00",
-        "year": "2015/2016",
-        "km": "136000",
-        "color": "Preto",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Novo/Fox-Hl-Md/Volkswagen-Novo-Fox-Hl-Md-2016-Londrina-Parana-7524069.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "CHEVROLET CHEV CRUZE LT NB AT",
         "price": "72900.00",
         "year": "2016/2016",
@@ -938,19 +911,19 @@
         "year": "2010/2011",
         "km": "125000",
         "color": "Preto",
-        "transmission": "Automático",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
             "Ar-condicionado",
             "Ar Quente",
             "Bancos De Couro",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
+            "CÔmbio Automßtico",
+            "DireþÒo Hidrßulica",
             "Limpador Traseiro",
             "Rodas De Liga Leve",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Mitsubishi/Pajero/Tr4-Flex-Hp/Mitsubishi-Pajero-Tr4-Flex-Hp-2011-Londrina-Parana-7723052.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
