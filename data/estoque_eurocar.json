@@ -552,32 +552,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "JEEP RENEGADE 1.8 16V FLEX SPORT 4P AUTOMÁTICO",
-        "price": "72900.00",
-        "year": "2017/2018",
-        "km": "95000",
-        "color": "Branco",
-        "transmission": "",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "CŌmbio Automßtico",
-            "DireńŃo Hidrßulica",
-            "Limpador Traseiro",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som MultimĒdia",
-            "Trava Elķtrica",
-            "Vidros Elķtricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-16v-Flex-Sport-4p-Automatico/Jeep-Renegade-18-16v-Flex-Sport-4p-Automatico-2018-Londrina-Parana-7712259.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "FIAT STRADA HD WK CC E",
         "price": "56900.00",
         "year": "2017/2018",
@@ -682,6 +656,32 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Cl-Mbv/Volkswagen-Fox-Cl-Mbv-2018-Londrina-Parana-7698928.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "JEEP RENEGADE 1.8 16V FLEX SPORT 4P AUTOMÁTICO",
+        "price": "72900.00",
+        "year": "2017/2018",
+        "km": "95000",
+        "color": "Branco",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "CŌmbio Automßtico",
+            "DireńŃo Hidrßulica",
+            "Limpador Traseiro",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som MultimĒdia",
+            "Trava Elķtrica",
+            "Vidros Elķtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-16v-Flex-Sport-4p-Automatico/Jeep-Renegade-18-16v-Flex-Sport-4p-Automatico-2018-Londrina-Parana-7712259.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
