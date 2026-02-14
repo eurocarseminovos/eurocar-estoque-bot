@@ -50,37 +50,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "JEEP COMPASS LONG TF",
-        "price": "129900.00",
-        "year": "2021/2022",
-        "km": "72000",
-        "color": "Cinza",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Long-Tf/Jeep-Compass-Long-Tf-2022-Londrina-Parana-7363460.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
         "price": "66900.00",
         "year": "2021/2022",
@@ -212,28 +181,28 @@
         "year": "2019/2020",
         "km": "2020",
         "color": "Preto",
-        "transmission": "",
+        "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
             "Abs",
             "Airbag",
             "Alarme",
-            "Apoio De Braþo",
+            "Apoio De Braço",
             "Ar-condicionado",
             "Ar Quente",
             "Assistente De Rampa",
             "Bancos De Couro",
-            "CÔmbio Automßtico",
-            "Desembaþador Traseiro",
-            "DireþÒo ElÚtrica",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
             "Limpador Traseiro",
-            "Retrovisor ElÚtrico",
+            "Retrovisor Elétrico",
             "Rodas De Liga Leve",
             "Sensor De Estacionamento",
-            "Som MultimÝdia",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/Hr-v/Exl-Cvt/Honda-Hr-v-Exl-Cvt-2020-Londrina-Parana-7793305.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -346,6 +315,29 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/Expression-16-16v/Renault-Duster-Expression-16-16v-2020-Londrina-Parana-7654845.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FIAT TORO FREEDOM 1.8 AT6",
+        "price": "92900.00",
+        "year": "2019/2020",
+        "km": "2020",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Freedom-18-At6/Fiat-Toro-Freedom-18-At6-2020-Londrina-Parana-7813612.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -815,6 +807,19 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "TOYOTA COROLLA 1.8 GLI 16V FLEX 4P AUTOMATICO",
+        "price": "84900.00",
+        "year": "2016/2017",
+        "km": "102000",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/18-Gli-16v-Flex-4p-Automatico/Toyota-Corolla-18-Gli-16v-Flex-4p-Automatico-2017-Londrina-Parana-7813812.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "HONDA CITY LX CVT",
         "price": "69900.00",
         "year": "2016/2016",
@@ -1027,19 +1032,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Mitsubishi/Pajero/Tr4-Flex-Hp/Mitsubishi-Pajero-Tr4-Flex-Hp-2011-Londrina-Parana-7723052.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "HONDA FIT LX 1.4 16V FLEX AUT.",
-        "price": "43900.00",
-        "year": "2010/2010",
-        "km": "2010",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Honda/Fit/Lx-14-16v-Flex-Aut/Honda-Fit-Lx-14-16v-Flex-Aut-2010-Londrina-Parana-7715393.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     }
 ]
