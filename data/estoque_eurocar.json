@@ -564,6 +564,35 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "HYUNDAI CRETA 20A SPORT",
+        "price": "92900.00",
+        "year": "2019/2019",
+        "km": "2019",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7812952.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "FORD FOCUS SE AT 2.0SC",
         "price": "59900.00",
         "year": "2018/2018",
@@ -648,6 +677,38 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2018-Londrina-Parana-7654872.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET TRACKER PREMIER",
+        "price": "86900.00",
+        "year": "2017/2018",
+        "km": "2018",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Hidráulica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Teto Solar",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier/Chevrolet-Tracker-Premier-2018-Londrina-Parana-7812917.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -833,7 +894,7 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET CRUZE 1.8 LT SPORT6 16V FLEX 4P AUTOMĮTICO",
+        "name": "CHEVROLET CRUZE 1.8 LT SPORT6 16V FLEX 4P AUTOMÁTICO",
         "price": "72900.00",
         "year": "2015/2016",
         "km": "114000",
@@ -879,6 +940,28 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Punto/Attractive-14/Fiat-Punto-Attractive-14-2016-Londrina-Parana-7766242.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "VOLKSWAGEN UP TAKE MA",
+        "price": "43900.00",
+        "year": "2015/2016",
+        "km": "2016",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Up-Take/Ma/Volkswagen-Up-Take-Ma-2016-Londrina-Parana-7812978.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
