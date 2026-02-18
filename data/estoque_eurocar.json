@@ -333,22 +333,22 @@
         "year": "2018/2019",
         "km": "2019",
         "color": "Preto",
-        "transmission": "Automático",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
             "Abs",
             "Airbag",
             "Alarme",
-            "Apoio De Braço",
+            "Apoio De Braþo",
             "Ar-condicionado",
             "Ar Quente",
             "Assistente De Rampa",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
+            "DireþÒo Hidrßulica",
+            "Retrovisor ElÚtrico",
             "Rodas De Liga Leve",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Cvt/Honda-City-Lx-Cvt-2019-Londrina-Parana-7793225.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -807,19 +807,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "HONDA CITY LX CVT",
-        "price": "69900.00",
-        "year": "2016/2016",
-        "km": "2016",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Cvt/Honda-City-Lx-Cvt-2016-Londrina-Parana-7796146.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "CHEVROLET CHEV CRUZE LT NB AT",
         "price": "72900.00",
         "year": "2016/2016",
@@ -954,6 +941,19 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Punto/Attractive-14/Fiat-Punto-Attractive-14-2016-Londrina-Parana-7766242.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "HONDA CITY LX CVT",
+        "price": "69900.00",
+        "year": "2016/2016",
+        "km": "2016",
+        "color": "Prata",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Cvt/Honda-City-Lx-Cvt-2016-Londrina-Parana-7796146.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
