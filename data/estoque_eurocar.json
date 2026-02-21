@@ -132,7 +132,7 @@
         "year": "2020/2021",
         "km": "56000",
         "color": "Branco",
-        "transmission": "",
+        "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -140,10 +140,10 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "CÔmbio Manual",
-            "DireþÒo Hidrßulica",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2021-Londrina-Parana-7541481.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -186,28 +186,28 @@
         "year": "2019/2020",
         "km": "2020",
         "color": "Preto",
-        "transmission": "",
+        "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
             "Abs",
             "Airbag",
             "Alarme",
-            "Apoio De Braþo",
+            "Apoio De Braço",
             "Ar-condicionado",
             "Ar Quente",
             "Assistente De Rampa",
             "Bancos De Couro",
-            "CÔmbio Automßtico",
-            "Desembaþador Traseiro",
-            "DireþÒo ElÚtrica",
+            "Câmbio Automático",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
             "Limpador Traseiro",
-            "Retrovisor ElÚtrico",
+            "Retrovisor Elétrico",
             "Rodas De Liga Leve",
             "Sensor De Estacionamento",
-            "Som MultimÝdia",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/Hr-v/Exl-Cvt/Honda-Hr-v-Exl-Cvt-2020-Londrina-Parana-7793305.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -405,7 +405,7 @@
         "year": "2019/2019",
         "km": "105889",
         "color": "Branco",
-        "transmission": "",
+        "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -413,12 +413,12 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "CÔmbio Manual",
-            "DireþÒo Hidrßulica",
-            "Retrovisor ElÚtrico",
-            "Som MultimÝdia",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Lt/Chevrolet-Onix-10mt-Lt-2019-Londrina-Parana-7648117.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -450,35 +450,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16-Comfort-Style-16v-Flex-4p-Automatico/Hyundai-Hb20s-16-Comfort-Style-16v-Flex-4p-Automatico-2019-Londrina-Parana-7771701.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "HYUNDAI CRETA 20A SPORT",
-        "price": "92900.00",
-        "year": "2019/2019",
-        "km": "115812",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Câmbio Automático",
-            "Desembaçador Traseiro",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7648086.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -970,6 +941,30 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Dx-Mt/Honda-City-Dx-Mt-2015-Londrina-Parana-7546803.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FORD ECOSPORT FSL 1.6",
+        "price": "54900.00",
+        "year": "2014/2014",
+        "km": "110000",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Desembaçador Traseiro",
+            "Direçăo Hidráulica",
+            "Limpador Traseiro",
+            "Rodas De Liga Leve",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Fsl-16/Ford-Ecosport-Fsl-16-2014-Londrina-Parana-7827623.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
