@@ -1,5 +1,36 @@
 [
     {
+        "name": "VOLKSWAGEN NIVUS 1.0 200 TSI HIGHLINE",
+        "price": "116900.00",
+        "year": "2023/2024",
+        "km": "69000",
+        "color": "Cinza",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nivus/10-200-Tsi-Highline/Volkswagen-Nivus-10-200-Tsi-Highline-2024-Londrina-Parana-7837513.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "CHEVROLET ONIX PLUS 10TMT LT1",
         "price": "76900.00",
         "year": "2022/2023",
