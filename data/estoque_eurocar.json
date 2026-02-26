@@ -323,6 +323,29 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "FIAT TORO FREEDOM 1.8 AT6",
+        "price": "92900.00",
+        "year": "2019/2020",
+        "km": "2020",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Freedom-18-At6/Fiat-Toro-Freedom-18-At6-2020-Londrina-Parana-7813612.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "HONDA HR-V EXL CVT",
         "price": "111900.00",
         "year": "2019/2020",
@@ -352,29 +375,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/Hr-v/Exl-Cvt/Honda-Hr-v-Exl-Cvt-2020-Londrina-Parana-7793305.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "FIAT TORO FREEDOM 1.8 AT6",
-        "price": "92900.00",
-        "year": "2019/2020",
-        "km": "2020",
-        "color": "Branco",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Freedom-18-At6/Fiat-Toro-Freedom-18-At6-2020-Londrina-Parana-7813612.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -452,35 +452,6 @@
             "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Lt/Chevrolet-Onix-10mt-Lt-2019-Londrina-Parana-7648117.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "HYUNDAI HB20S 1.6 COMFORT STYLE 16V FLEX 4P AUTOMATICO",
-        "price": "70900.00",
-        "year": "2018/2019",
-        "km": "2019",
-        "color": "Preto",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Bancos De Couro",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16-Comfort-Style-16v-Flex-4p-Automatico/Hyundai-Hb20s-16-Comfort-Style-16v-Flex-4p-Automatico-2019-Londrina-Parana-7771701.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -590,6 +561,35 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7812952.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "HYUNDAI HB20S 1.6 COMFORT STYLE 16V FLEX 4P AUTOMATICO",
+        "price": "70900.00",
+        "year": "2018/2019",
+        "km": "2019",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16-Comfort-Style-16v-Flex-4p-Automatico/Hyundai-Hb20s-16-Comfort-Style-16v-Flex-4p-Automatico-2019-Londrina-Parana-7771701.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -757,35 +757,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "JEEP COMPASS LONGITUDE F",
-        "price": "91900.00",
-        "year": "2017/2017",
-        "km": "87000",
-        "color": "Preto",
-        "transmission": "",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Apoio De Braþo",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Bancos De Couro",
-            "Desembaþador Traseiro",
-            "DireþÒo ElÚtrica",
-            "Limpador Traseiro",
-            "Retrovisor ElÚtrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som MultimÝdia",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-F/Jeep-Compass-Longitude-F-2017-Londrina-Parana-7723459.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "JEEP RENEGADE SPORT MT",
         "price": "67900.00",
         "year": "2017/2017",
@@ -825,6 +796,35 @@
         "doors": "4",
         "options": [],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/18-Gli-16v-Flex-4p-Automatico/Toyota-Corolla-18-Gli-16v-Flex-4p-Automatico-2017-Londrina-Parana-7813812.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "JEEP COMPASS LONGITUDE F",
+        "price": "91900.00",
+        "year": "2017/2017",
+        "km": "87000",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-F/Jeep-Compass-Longitude-F-2017-Londrina-Parana-7723459.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
