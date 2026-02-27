@@ -219,34 +219,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "FIAT TORO 1.8 16V EVO FLEX FREEDOM AT6",
-        "price": "96900.00",
-        "year": "2021/2021",
-        "km": "2021",
-        "color": "Preto",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Câmbio Automático",
-            "Direçăo Elétrica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/18-16v-Evo-Flex-Freedom-At6/Fiat-Toro-18-16v-Evo-Flex-Freedom-At6-2021-Londrina-Parana-7836449.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "VOLKSWAGEN POLO CL AD",
         "price": "82900.00",
         "year": "2021/2021",
@@ -270,6 +242,34 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2021-Londrina-Parana-7492463.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FIAT TORO 1.8 16V EVO FLEX FREEDOM AT6",
+        "price": "96900.00",
+        "year": "2021/2021",
+        "km": "85000",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/18-16v-Evo-Flex-Freedom-At6/Fiat-Toro-18-16v-Evo-Flex-Freedom-At6-2021-Londrina-Parana-7836449.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
