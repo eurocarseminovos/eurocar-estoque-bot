@@ -88,30 +88,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET ONIX PLUS 10TAT LTZ",
-        "price": "82900.00",
-        "year": "2021/2022",
-        "km": "62000",
-        "color": "Cinza",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
-            "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tat-Ltz/Chevrolet-Onix-Plus-10tat-Ltz-2022-Londrina-Parana-7067082.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "TOYOTA COROLLA CROSS XR 2.0 16V FLEX AUT.",
         "price": "132900.00",
         "year": "2021/2022",
@@ -450,7 +426,7 @@
         "year": "2019/2019",
         "km": "105889",
         "color": "Branco",
-        "transmission": "",
+        "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -458,12 +434,12 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "CÔmbio Manual",
-            "DireþÒo Hidrßulica",
-            "Retrovisor ElÚtrico",
-            "Som MultimÝdia",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10mt-Lt/Chevrolet-Onix-10mt-Lt-2019-Londrina-Parana-7648117.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -998,6 +974,32 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2015-Londrina-Parana-7839461.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "NISSAN SENTRA 20SV CVT",
+        "price": "55900.00",
+        "year": "2014/2015",
+        "km": "2015",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Nissan/Sentra/20sv-Cvt/Nissan-Sentra-20sv-Cvt-2015-Londrina-Parana-7890511.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
