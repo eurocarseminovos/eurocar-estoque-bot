@@ -1021,7 +1021,16 @@
         "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
-        "options": [],
+        "options": [
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14mt-Ltz/Chevrolet-Onix-14mt-Ltz-2013-Londrina-Parana-7857133.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
