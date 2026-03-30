@@ -555,6 +555,34 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "HYUNDAI CRETA PRESTIGE AUTOMÁTICO FLEX",
+        "price": "91900.00",
+        "year": "2018/2018",
+        "km": "115000",
+        "color": "Prata",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "CŌmbio Automßtico",
+            "DireńŃo Hidrßulica",
+            "Limpador Traseiro",
+            "Retrovisor Elķtrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som MultimĒdia",
+            "Trava Elķtrica",
+            "Vidros Elķtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/Prestige-Automatico-Flex/Hyundai-Creta-Prestige-Automatico-Flex-2018-Londrina-Parana-7947679.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "TOYOTA COROLLA 1.8 GLI 16V FLEX 4P AUTOMATICO",
         "price": "84900.00",
         "year": "2016/2017",
@@ -717,33 +745,6 @@
         "doors": "4",
         "options": [],
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Cvt/Honda-City-Lx-Cvt-2016-Londrina-Parana-7796146.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "VOLKSWAGEN NOVO FOX TRACK ME",
-        "price": "53900.00",
-        "year": "2015/2016",
-        "km": "110000",
-        "color": "Branco",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Novo/Fox-Track-Me/Volkswagen-Novo-Fox-Track-Me-2016-Londrina-Parana-7695540.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
