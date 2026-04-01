@@ -721,27 +721,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "VOLKSWAGEN UP TAKE MA",
-        "price": "44900.00",
-        "year": "2015/2016",
-        "km": "2016",
-        "color": "Branco",
-        "transmission": "",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Ar-condicionado",
-            "Ar Quente",
-            "CÔmbio Manual",
-            "DireþÒo ElÚtrica",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos",
-            "CÔmera De RÚ"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Up-Take/Ma/Volkswagen-Up-Take-Ma-2016-Londrina-Parana-7812978.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "FIAT PUNTO ATTRACTIVE 1.4",
         "price": "45500.00",
         "year": "2015/2016",
@@ -810,6 +789,27 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2/Renault-Duster-20-D-4x2-2016-Londrina-Parana-7856578.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "VOLKSWAGEN UP TAKE MA",
+        "price": "44900.00",
+        "year": "2015/2016",
+        "km": "125000",
+        "color": "Branco",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Ar-condicionado",
+            "Ar Quente",
+            "CÔmbio Manual",
+            "DireþÒo ElÚtrica",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos",
+            "CÔmera De RÚ"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Up-Take/Ma/Volkswagen-Up-Take-Ma-2016-Londrina-Parana-7812978.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
