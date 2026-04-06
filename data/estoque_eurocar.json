@@ -582,6 +582,30 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "FIAT TORO 1.8 16V EVO FLEX FREEDOM AT6",
+        "price": "82900.00",
+        "year": "2017/2017",
+        "km": "2017",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/18-16v-Evo-Flex-Freedom-At6/Fiat-Toro-18-16v-Evo-Flex-Freedom-At6-2017-Londrina-Parana-7948716.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "TOYOTA COROLLA 1.8 GLI 16V FLEX 4P AUTOMATICO",
         "price": "84900.00",
         "year": "2016/2017",
