@@ -1,29 +1,5 @@
 [
     {
-        "name": "CHEVROLET ONIX PLUS 10TMT LT1",
-        "price": "76900.00",
-        "year": "2022/2023",
-        "km": "42000",
-        "color": "Prata",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Elétrica",
-            "Retrovisor Elétrico",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/Plus-10tmt-Lt1/Chevrolet-Onix-Plus-10tmt-Lt1-2023-Londrina-Parana-7541389.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "TOYOTA COROLLA CROSS XRX 1.8 16V AUT.(HÍBRIDO)",
         "price": "158900.00",
         "year": "2022/2023",
