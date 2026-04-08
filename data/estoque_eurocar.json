@@ -1,38 +1,5 @@
 [
     {
-        "name": "TOYOTA COROLLA CROSS XRX 1.8 16V AUT.(HÍBRIDO)",
-        "price": "158900.00",
-        "year": "2022/2023",
-        "km": "59000",
-        "color": "Branco",
-        "transmission": "Automático",
-        "fuel": "HÍBRIDO COR BRANCO PORTAS",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Desembaçador Traseiro",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Teto Solar",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Cross-Xrx-18-16v-Aut(hibrido)/Toyota-Corolla-Cross-Xrx-18-16v-Aut(hibrido)-2023-Londrina-Parana-6236477.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
         "price": "112900.00",
         "year": "2021/2021",
@@ -378,6 +345,28 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2018-Londrina-Parana-7654872.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET ONIX 1.0 JOY 8V FLEX 4P MANUAL",
+        "price": "48900.00",
+        "year": "2018/2018",
+        "km": "2018",
+        "color": "Prata",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Joy-8v-Flex-4p-Manual/Chevrolet-Onix-10-Joy-8v-Flex-4p-Manual-2018-Londrina-Parana-7973706.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
