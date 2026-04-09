@@ -322,7 +322,7 @@
         "year": "2018/2018",
         "km": "2018",
         "color": "Prata",
-        "transmission": "Manual",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -330,10 +330,10 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "CÔmbio Manual",
+            "DireþÒo Hidrßulica",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Joy-8v-Flex-4p-Manual/Chevrolet-Onix-10-Joy-8v-Flex-4p-Manual-2018-Londrina-Parana-7973706.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -722,28 +722,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Honda/City/Dx-Mt/Honda-City-Dx-Mt-2015-Londrina-Parana-7546803.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "FIAT FIAT SIENA EL 1.4 FLEX",
-        "price": "39900.00",
-        "year": "2014/2015",
-        "km": "2015",
-        "color": "Branco",
-        "transmission": "",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "CÔmbio Manual",
-            "DireþÒo Hidrßulica",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Fiat/Siena-El-14-Flex/Fiat-Fiat-Siena-El-14-Flex-2015-Londrina-Parana-7961428.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
