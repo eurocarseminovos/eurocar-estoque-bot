@@ -771,6 +771,19 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "CHEVROLET PRISMA 1.0 MT LT",
+        "price": "45900.00",
+        "year": "2014/2014",
+        "km": "2014",
+        "color": "Prata",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/10-Mt-Lt/Chevrolet-Prisma-10-Mt-Lt-2014-Londrina-Parana-7919104.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "FIAT PALIO WEEK. ATTRACTIVE 1.4 FIRE FLEX 8V",
         "price": "42900.00",
         "year": "2013/2014",
@@ -788,19 +801,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Palio/Week-Attractive-14-Fire-Flex-8v/Fiat-Palio-Week-Attractive-14-Fire-Flex-8v-2014-Londrina-Parana-7873670.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "CHEVROLET PRISMA 1.0 MT LT",
-        "price": "45900.00",
-        "year": "2014/2014",
-        "km": "2014",
-        "color": "Prata",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/10-Mt-Lt/Chevrolet-Prisma-10-Mt-Lt-2014-Londrina-Parana-7919104.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
