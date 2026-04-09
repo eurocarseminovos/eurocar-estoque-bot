@@ -32,32 +32,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "VOLKSWAGEN POLO CL AD",
-        "price": "82900.00",
-        "year": "2021/2021",
-        "km": "58000",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Automático",
-            "Direçăo Elétrica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2021-Londrina-Parana-7492463.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
         "price": "112900.00",
         "year": "2020/2021",
@@ -434,7 +408,7 @@
         "year": "2017/2018",
         "km": "115000",
         "color": "Branco",
-        "transmission": "Automático",
+        "transmission": "",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -442,16 +416,16 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
+            "CÔmbio Automßtico",
+            "DireþÒo Hidrßulica",
             "Limpador Traseiro",
-            "Retrovisor Elétrico",
+            "Retrovisor ElÚtrico",
             "Rodas De Liga Leve",
             "Sensor De Estacionamento",
-            "Som Multimídia",
+            "Som MultimÝdia",
             "Teto Solar",
-            "Trava Elétrica",
-            "Vidros Elétricos"
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier-14-Turbo-16v-Flex-Aut/Chevrolet-Tracker-Premier-14-Turbo-16v-Flex-Aut-2018-Londrina-Parana-7944788.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
@@ -616,6 +590,19 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Highline-16-16v-Msi/Volkswagen-Fox-Highline-16-16v-Msi-2017-Londrina-Parana-7944900.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FIAT UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
+        "price": "45900.00",
+        "year": "2016/2016",
+        "km": "123000",
+        "color": "Prata",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "5",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Uno/Way-14-Evo-Fire-Flex-8v-5p/Fiat-Uno-Way-14-Evo-Fire-Flex-8v-5p-2016-Londrina-Parana-7978763.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
