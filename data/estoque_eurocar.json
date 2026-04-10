@@ -1,5 +1,35 @@
 [
     {
+        "name": "FIAT TORO VOLC AT9 4X4",
+        "price": "122900.00",
+        "year": "2021/2022",
+        "km": "2022",
+        "color": "Prata",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Toro/Volc-At9-4x4/Fiat-Toro-Volc-At9-4x4-2022-Londrina-Parana-7966224.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
         "price": "112900.00",
         "year": "2021/2021",
@@ -483,6 +513,30 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
+        "name": "TOYOTA ETIOS HB READY 1.5 AUTOMATICO FLEX",
+        "price": "63900.00",
+        "year": "2016/2017",
+        "km": "2017",
+        "color": "Vermelho",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Hb-Ready-15-Automatico-Flex/Toyota-Etios-Hb-Ready-15-Automatico-Flex-2017-Londrina-Parana-7979080.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
         "name": "TOYOTA COROLLA 1.8 GLI 16V FLEX 4P AUTOMATICO",
         "price": "84900.00",
         "year": "2016/2017",
@@ -590,6 +644,30 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Fox/Highline-16-16v-Msi/Volkswagen-Fox-Highline-16-16v-Msi-2017-Londrina-Parana-7944900.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "RENAULT DUSTER 20 D 4X2",
+        "price": "61900.00",
+        "year": "2015/2016",
+        "km": "93000",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Renault/Duster/20-D-4x2/Renault-Duster-20-D-4x2-2016-Londrina-Parana-7856578.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
