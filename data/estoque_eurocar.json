@@ -32,38 +32,6 @@
     {
         "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
         "price": "112900.00",
-        "year": "2020/2021",
-        "km": "94000",
-        "color": "Prata",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "5",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Teto Solar",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/T-Cross/Highline-250-Tsi-Aut/Volkswagen-T-Cross-Highline-250-Tsi-Aut-2021-Londrina-Parana-7936152.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
-        "price": "112900.00",
         "year": "2021/2021",
         "km": "68000",
         "color": "Preto",
@@ -94,27 +62,35 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET S10 ADVANTAGE FD2",
-        "price": "123900.00",
-        "year": "2019/2020",
-        "km": "113000",
-        "color": "Branco",
-        "transmission": "Manual",
+        "name": "VOLKSWAGEN T CROSS HIGHLINE 250 TSI AUT",
+        "price": "112900.00",
+        "year": "2020/2021",
+        "km": "94000",
+        "color": "Prata",
+        "transmission": "Automático",
         "fuel": "FLEX",
-        "doors": "4",
+        "doors": "5",
         "options": [
             "Abs",
             "Airbag",
+            "Alarme",
+            "Apoio De Braço",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
+            "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
             "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
             "Som Multimídia",
+            "Teto Solar",
             "Trava Elétrica",
             "Vidros Elétricos"
         ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/T-Cross/Highline-250-Tsi-Aut/Volkswagen-T-Cross-Highline-250-Tsi-Aut-2021-Londrina-Parana-7936152.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -143,6 +119,30 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Polo/Cl-Ad/Volkswagen-Polo-Cl-Ad-2020-Londrina-Parana-7830092.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET S10 ADVANTAGE FD2",
+        "price": "123900.00",
+        "year": "2019/2020",
+        "km": "113000",
+        "color": "Branco",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Manual",
+            "Direçăo Hidráulica",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/S10/Advantage-Fd2/Chevrolet-S10-Advantage-Fd2-2020-Londrina-Parana-6705802.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -206,11 +206,11 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "HYUNDAI CRETA 20A SPORT",
-        "price": "91900.00",
-        "year": "2019/2019",
-        "km": "133525",
-        "color": "Branco",
+        "name": "HONDA CITY LX CVT",
+        "price": "79900.00",
+        "year": "2018/2019",
+        "km": "137130",
+        "color": "Preto",
         "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
@@ -221,17 +221,14 @@
             "Apoio De Braço",
             "Ar-condicionado",
             "Ar Quente",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
+            "Assistente De Rampa",
+            "Direçăo Hidráulica",
+            "Retrovisor Elétrico",
             "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
             "Trava Elétrica",
             "Vidros Elétricos"
         ],
-        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7812952.html",
+        "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Cvt/Honda-City-Lx-Cvt-2019-Londrina-Parana-7793225.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -266,10 +263,61 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "HONDA CITY LX CVT",
-        "price": "79900.00",
-        "year": "2018/2019",
-        "km": "137130",
+        "name": "HYUNDAI CRETA 20A SPORT",
+        "price": "91900.00",
+        "year": "2019/2019",
+        "km": "133525",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Alarme",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Câmbio Automático",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Creta/20a-Sport/Hyundai-Creta-20a-Sport-2019-Londrina-Parana-7812952.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET ONIX 1.0 JOY 8V FLEX 4P MANUAL",
+        "price": "48900.00",
+        "year": "2018/2018",
+        "km": "2018",
+        "color": "Prata",
+        "transmission": "",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "CÔmbio Manual",
+            "DireþÒo Hidrßulica",
+            "Trava ElÚtrica",
+            "Vidros ElÚtricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Joy-8v-Flex-4p-Manual/Chevrolet-Onix-10-Joy-8v-Flex-4p-Manual-2018-Londrina-Parana-7973706.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "TOYOTA COROLLA XEI20FLEX",
+        "price": "99900.00",
+        "year": "2017/2018",
+        "km": "149000",
         "color": "Preto",
         "transmission": "Automático",
         "fuel": "FLEX",
@@ -282,13 +330,16 @@
             "Ar-condicionado",
             "Ar Quente",
             "Assistente De Rampa",
+            "Bancos De Couro",
+            "Câmbio Automático",
             "Direçăo Hidráulica",
             "Retrovisor Elétrico",
             "Rodas De Liga Leve",
+            "Som Multimídia",
             "Trava Elétrica",
             "Vidros Elétricos"
         ],
-        "link_details": "https://eurocarveiculos.com/carros/Honda/City/Lx-Cvt/Honda-City-Lx-Cvt-2019-Londrina-Parana-7793225.html",
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2018-Londrina-Parana-7654872.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -319,35 +370,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Ford/Focus/Se-At-20sc/Ford-Focus-Se-At-20sc-2018-Londrina-Parana-7766970.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "TOYOTA COROLLA XEI20FLEX",
-        "price": "99900.00",
-        "year": "2017/2018",
-        "km": "149000",
-        "color": "Preto",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Alarme",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Assistente De Rampa",
-            "Bancos De Couro",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/Xei20flex/Toyota-Corolla-Xei20flex-2018-Londrina-Parana-7654872.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -411,12 +433,12 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET ONIX 1.0 JOY 8V FLEX 4P MANUAL",
-        "price": "48900.00",
-        "year": "2018/2018",
-        "km": "2018",
-        "color": "Prata",
-        "transmission": "",
+        "name": "CHEVROLET TRACKER PREMIER 1.4 TURBO 16V FLEX AUT",
+        "price": "85900.00",
+        "year": "2017/2018",
+        "km": "115000",
+        "color": "Branco",
+        "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
@@ -424,12 +446,18 @@
             "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "CÔmbio Manual",
-            "DireþÒo Hidrßulica",
-            "Trava ElÚtrica",
-            "Vidros ElÚtricos"
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Teto Solar",
+            "Trava Elétrica",
+            "Vidros Elétricos"
         ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/10-Joy-8v-Flex-4p-Manual/Chevrolet-Onix-10-Joy-8v-Flex-4p-Manual-2018-Londrina-Parana-7973706.html",
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier-14-Turbo-16v-Flex-Aut/Chevrolet-Tracker-Premier-14-Turbo-16v-Flex-Aut-2018-Londrina-Parana-7944788.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -461,63 +489,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET TRACKER PREMIER 1.4 TURBO 16V FLEX AUT",
-        "price": "85900.00",
-        "year": "2017/2018",
-        "km": "115000",
-        "color": "Branco",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Automático",
-            "Direçăo Hidráulica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Teto Solar",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Tracker/Premier-14-Turbo-16v-Flex-Aut/Chevrolet-Tracker-Premier-14-Turbo-16v-Flex-Aut-2018-Londrina-Parana-7944788.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "JEEP COMPASS LONGITUDE F",
-        "price": "89900.00",
-        "year": "2017/2017",
-        "km": "87000",
-        "color": "Preto",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Abs",
-            "Airbag",
-            "Apoio De Braço",
-            "Ar-condicionado",
-            "Ar Quente",
-            "Bancos De Couro",
-            "Desembaçador Traseiro",
-            "Direçăo Elétrica",
-            "Limpador Traseiro",
-            "Retrovisor Elétrico",
-            "Rodas De Liga Leve",
-            "Sensor De Estacionamento",
-            "Som Multimídia",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-F/Jeep-Compass-Longitude-F-2017-Londrina-Parana-7723459.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "TOYOTA ETIOS HB READY 1.5 AUTOMATICO FLEX",
         "price": "63900.00",
         "year": "2016/2017",
@@ -539,6 +510,32 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Toyota/Etios/Hb-Ready-15-Automatico-Flex/Toyota-Etios-Hb-Ready-15-Automatico-Flex-2017-Londrina-Parana-7979080.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "TOYOTA COROLLA 1.8 GLI 16V FLEX 4P AUTOMATICO",
+        "price": "84900.00",
+        "year": "2016/2017",
+        "km": "102000",
+        "color": "Branco",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/18-Gli-16v-Flex-4p-Automatico/Toyota-Corolla-18-Gli-16v-Flex-4p-Automatico-2017-Londrina-Parana-7813812.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
+        "price": "120900.00",
+        "year": "2017/2017",
+        "km": "119000",
+        "color": "Preto",
+        "transmission": "Automático",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Bmw/320i/20-16v-Turbo-Active-Flex-4p-Automatico/Bmw-320i-20-16v-Turbo-Active-Flex-4p-Automatico-2017-Londrina-Parana-7242793.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -571,29 +568,32 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "TOYOTA COROLLA 1.8 GLI 16V FLEX 4P AUTOMATICO",
-        "price": "84900.00",
-        "year": "2016/2017",
-        "km": "102000",
-        "color": "Branco",
-        "transmission": "Automático",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Toyota/Corolla/18-Gli-16v-Flex-4p-Automatico/Toyota-Corolla-18-Gli-16v-Flex-4p-Automatico-2017-Londrina-Parana-7813812.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "BMW 320I 2.0 16V TURBO ACTIVE FLEX 4P AUTOMATICO",
-        "price": "120900.00",
+        "name": "JEEP COMPASS LONGITUDE F",
+        "price": "89900.00",
         "year": "2017/2017",
-        "km": "119000",
+        "km": "87000",
         "color": "Preto",
         "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Bmw/320i/20-16v-Turbo-Active-Flex-4p-Automatico/Bmw-320i-20-16v-Turbo-Active-Flex-4p-Automatico-2017-Londrina-Parana-7242793.html",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Apoio De Braço",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Bancos De Couro",
+            "Desembaçador Traseiro",
+            "Direçăo Elétrica",
+            "Limpador Traseiro",
+            "Retrovisor Elétrico",
+            "Rodas De Liga Leve",
+            "Sensor De Estacionamento",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Jeep/Compass/Longitude-F/Jeep-Compass-Longitude-F-2017-Londrina-Parana-7723459.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -647,19 +647,6 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "FIAT UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
-        "price": "45900.00",
-        "year": "2016/2016",
-        "km": "123000",
-        "color": "Prata",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "5",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Uno/Way-14-Evo-Fire-Flex-8v-5p/Fiat-Uno-Way-14-Evo-Fire-Flex-8v-5p-2016-Londrina-Parana-7978763.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
         "name": "VOLKSWAGEN UP TAKE MA",
         "price": "44900.00",
         "year": "2015/2016",
@@ -694,24 +681,16 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "FIAT PUNTO ATTRACTIVE 1.4",
-        "price": "45500.00",
-        "year": "2015/2016",
-        "km": "146703",
-        "color": "Branco",
+        "name": "FIAT UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
+        "price": "45900.00",
+        "year": "2016/2016",
+        "km": "123000",
+        "color": "Prata",
         "transmission": "Manual",
         "fuel": "FLEX",
-        "doors": "4",
-        "options": [
-            "Ar-condicionado",
-            "Ar Quente",
-            "Câmbio Manual",
-            "Direçăo Hidráulica",
-            "Rodas De Liga Leve",
-            "Trava Elétrica",
-            "Vidros Elétricos"
-        ],
-        "link_details": "https://eurocarveiculos.com/carros/Fiat/Punto/Attractive-14/Fiat-Punto-Attractive-14-2016-Londrina-Parana-7766242.html",
+        "doors": "5",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Uno/Way-14-Evo-Fire-Flex-8v-5p/Fiat-Uno-Way-14-Evo-Fire-Flex-8v-5p-2016-Londrina-Parana-7978763.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -739,27 +718,24 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET ONIX 1.4AT LTZ",
-        "price": "56900.00",
-        "year": "2014/2015",
-        "km": "129253",
-        "color": "Prata",
-        "transmission": "Automático",
+        "name": "FIAT PUNTO ATTRACTIVE 1.4",
+        "price": "45500.00",
+        "year": "2015/2016",
+        "km": "146703",
+        "color": "Branco",
+        "transmission": "Manual",
         "fuel": "FLEX",
         "doors": "4",
         "options": [
-            "Abs",
-            "Airbag",
             "Ar-condicionado",
             "Ar Quente",
-            "Câmbio Automático",
+            "Câmbio Manual",
             "Direçăo Hidráulica",
             "Rodas De Liga Leve",
-            "Som Multimídia",
             "Trava Elétrica",
             "Vidros Elétricos"
         ],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14at-Ltz/Chevrolet-Onix-14at-Ltz-2015-Londrina-Parana-7944340.html",
+        "link_details": "https://eurocarveiculos.com/carros/Fiat/Punto/Attractive-14/Fiat-Punto-Attractive-14-2016-Londrina-Parana-7766242.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -786,16 +762,27 @@
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
-        "name": "CHEVROLET PRISMA 1.0 MT LT",
-        "price": "45900.00",
-        "year": "2014/2014",
-        "km": "2014",
+        "name": "CHEVROLET ONIX 1.4AT LTZ",
+        "price": "56900.00",
+        "year": "2014/2015",
+        "km": "129253",
         "color": "Prata",
-        "transmission": "Manual",
+        "transmission": "Automático",
         "fuel": "FLEX",
         "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/10-Mt-Lt/Chevrolet-Prisma-10-Mt-Lt-2014-Londrina-Parana-7919104.html",
+        "options": [
+            "Abs",
+            "Airbag",
+            "Ar-condicionado",
+            "Ar Quente",
+            "Câmbio Automático",
+            "Direçăo Hidráulica",
+            "Rodas De Liga Leve",
+            "Som Multimídia",
+            "Trava Elétrica",
+            "Vidros Elétricos"
+        ],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Onix/14at-Ltz/Chevrolet-Onix-14at-Ltz-2015-Londrina-Parana-7944340.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -816,6 +803,32 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Fiat/Palio/Week-Attractive-14-Fire-Flex-8v/Fiat-Palio-Week-Attractive-14-Fire-Flex-8v-2014-Londrina-Parana-7873670.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "CHEVROLET PRISMA 1.0 MT LT",
+        "price": "45900.00",
+        "year": "2014/2014",
+        "km": "2014",
+        "color": "Prata",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Chevrolet/Prisma/10-Mt-Lt/Chevrolet-Prisma-10-Mt-Lt-2014-Londrina-Parana-7919104.html",
+        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
+    },
+    {
+        "name": "FORD RANGER XLS CD4M32",
+        "price": "93900.00",
+        "year": "2013/2013",
+        "km": "135000",
+        "color": "Prata",
+        "transmission": "Manual",
+        "fuel": "FLEX",
+        "doors": "4",
+        "options": [],
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ranger/Xls-Cd4m32/Ford-Ranger-Xls-Cd4m32-2013-Londrina-Parana-7925471.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
@@ -845,19 +858,6 @@
             "Vidros Elétricos"
         ],
         "link_details": "https://eurocarveiculos.com/carros/Hyundai/Ix35/20/Hyundai-Ix35-20-2013-Londrina-Parana-7857390.html",
-        "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
-    },
-    {
-        "name": "FORD RANGER XLS CD4M32",
-        "price": "93900.00",
-        "year": "2013/2013",
-        "km": "135000",
-        "color": "Prata",
-        "transmission": "Manual",
-        "fuel": "FLEX",
-        "doors": "4",
-        "options": [],
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Ranger/Xls-Cd4m32/Ford-Ranger-Xls-Cd4m32-2013-Londrina-Parana-7925471.html",
         "main_image_url": "https://eurocarveiculos.com/sites/eurocarveiculos.com/img/lazy.gif"
     },
     {
